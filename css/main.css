@@ -5,18 +5,18 @@ html {
 }
 body{
     font-family:'PT Serif',serif;
-    background-image: url("https://media.giphy.com/media/l3fQue6kGydX1azMQ/source.gif");
+    background-image: url("/images/index.gif");
    
 }
 
 .background-array {
 
-    background-image: url("https://media.giphy.com/media/l0HlwdoVlUfDBV8ac/giphy.gif");
+    background-image: url("/images/array.gif");
 }
 
 .background-metaphor {
 
-    background-image: url("https://media.giphy.com/media/kc5oqAEoRt0rEAUwFH/giphy.gif");
+    background-image: url("/images/metaphor.gif");
 }
 .menu-superior a {
     font-size: 30px;
