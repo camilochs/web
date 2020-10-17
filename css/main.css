@@ -5,18 +5,18 @@ html {
 }
 body{
     font-family:'PT Serif',serif;
-    background-image: url("/images/index.gif");
+    background-image: url("../images/index.gif");
    
 }
 
 .background-array {
 
-    background-image: url("/images/array.gif");
+    background-image: url("../images/array.gif");
 }
 
 .background-metaphor {
 
-    background-image: url("/images/metaphor.gif");
+    background-image: url("../images/metaphor.gif");
 }
 .menu-superior a {
     font-size: 30px;
