@@ -979,6 +979,20 @@ img.svg{
 .waxon_tm_portoflio .portfolio_inner ul li .list_inner .image:hover .main{
 	transform: scale(1.1) translateZ(0);
 }
+.waxon_tm_portoflio .portfolio_inner ul li .title h4 a{
+	margin: 0px;
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 10px;
+	color: #000;
+	text-decoration: none;
+	
+	-webkit-transition: all .3s ease;
+	   -moz-transition: all .3s ease;
+	    -ms-transition: all .3s ease;
+	     -o-transition: all .3s ease;
+	        transition: all .3s ease;
+}
 .waxon_tm_portoflio .portfolio_inner ul li .title h3 a{
 	margin: 0px;
     font-size: 20px;
