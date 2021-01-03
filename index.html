@@ -90,14 +90,14 @@
 									<span class="second">Proyectos</span>	
 								</a>
 							</li>
-							
+							<!--
 							<li>
 								<a href="#contact">
 									<span class="first">Contacto</span>
 									<span class="second">Contacto</span>	
 								</a>
 							</li>
-						
+						-->
 						</ul>
 					</div>
 				</div>
@@ -132,7 +132,7 @@
 						<li><a href="#about">Sobre mí</a></li>
 						<li><a href="https://algoritmo.buzzsprout.com/" target="_blank">Pódcast</a></li>
 						<li><a href="#portfolio">Proyectos</a></li>
-						<li><a href="#contact">Contacto</a></li> 
+						<!--<li><a href="#contact">Contacto</a></li> -->
 					</ul>
 				</div>
 			</div>
@@ -361,7 +361,7 @@
 		</div>-->
 	</div>
 
-<!-- CONTACT -->
+	<!--
 <div class="waxon_tm_contact" id="contact">
 	<div class="bg_image"></div>
 	<div class="container">
@@ -374,7 +374,7 @@
 			<div class="wrapper">
 				<div class="left wow fadeInLeft" data-wow-duration="0.8s">
 					<div class="fields">
-						<form  action="https://formspree.io/f/xleooqpg"	method="POST" class="contact_form" id="contact_form">
+						<form  action="https://formspree.io/f/xleooqpg"	method="POST" class="contact_form">
 							<div class="returnmessage" data-success="Your message has been received, We will contact you soon."></div>
 							<div class="empty_notice"><span>Por favor, rellene los datos</span></div>
 							<div class="first">
@@ -391,12 +391,13 @@
 								<textarea id="message" name="message" placeholder="Mensaje"></textarea>
 							</div>
 							<div class="waxon_tm_button" data-position="left">
-								<a id="send_message" href="#">
+							
+								<a href="#" type="submit">
+
 									<span>Enviar mensaje</span>
 								</a>
 							</div>
 							
-							<!-- If you want to change mail address to yours, please open modal.php and go to line 4 -->
 							
 						</form>
 					</div>
@@ -405,8 +406,7 @@
 		</div>
 	</div>
 </div>
-<!-- /CONTACT -->
-
+-->
 	<!-- COPYRIGHT -->
 	<div class="waxon_tm_copyright">
 		<div class="container">
@@ -459,6 +459,11 @@
         </script>
 <script src="js/customcode.js"></script>
 <!-- /SCRIPTS -->
-
+<!-- See more examples of how to use Formbutton at formspree.io/formbutton/docs -->
+<script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>
+<script>
+  window.formbutton=window.formbutton||function(){(formbutton.q=formbutton.q||[]).push(arguments)};
+  formbutton("create", {action: "https://formspree.io/f/xleooqpg"})
+</script>
 </body>
 </html>
