@@ -1,4 +1,0 @@
-Sitemap: https://camilochs.github.io/web/sitemap.xml
-
-User-agent: *
-Disallow:
