@@ -7,12 +7,12 @@
 
 Soy un estudiante chileno de doctorado en informática en [IIIA-CSIC](https://www.iiia.csic.es/en-us/), Barcelona, España. 
 
-Mis áreas de interes son:
+Mis áreas de interés son:
 
-* Metaheurísticas híbridas.
-* Optimización combinatoria.
-* Machine learning.
+* Metaheurísticas híbridas
+* Optimización combinatoria
+* Machine learning
 * Teoría de los lenguajes de programación y compiladores
-* Filosofía de la informática.
+* Filosofía de la informática
 
 ---
