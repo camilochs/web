@@ -8,6 +8,8 @@
 
 |CCS[^1]|Título|Fecha|
 |:-:|---|:-:|
+|9|[ Qué hacemos con los pseudo-informáticos](https://docdro.id/p8nWB7T)|2021|
+|8|[E-mail a una joven aspirante a informática](https://docdro.id/cPAtvNI)|2021|
 |7|[Introducción a la programación funcional usando Haskell y Agda](https://www.researchgate.net/publication/354765192_Introduccion_a_la_programacion_funcional_usando_Haskell_y_Agda)|2021|
 |6|[En defensa de los libros de informática escritos en español](https://docdro.id/gq8qzzB)|2021|
 |5|[Consejos y reglas de un simple programador](https://www.researchgate.net/publication/353105163_Consejos_y_reglas_de_un_simple_programador)|2021|

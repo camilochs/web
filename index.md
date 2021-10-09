@@ -5,7 +5,7 @@
 
  <!-- \tableofcontents you can use \toc as well -->
 
-Soy un estudiante chileno de doctorado en informática en [IIIA-CSIC](https://www.iiia.csic.es/en-us/), Barcelona, España. 
+Soy un estudiante chileno de doctorado en informática en [IIIA-CSIC](https://www.iiia.csic.es/en-us/people/person/?person_id=161), Cataluña, España. 
 
 Mis áreas de interés son:
 
