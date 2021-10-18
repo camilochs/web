@@ -23,12 +23,12 @@
 
 <item>
   <title>
-    <![CDATA[  Artículos  ]]>
+    <![CDATA[  Libros  ]]>
   </title>
-  <link> https://camilochs.github.io/web/art/index.html </link>
-  <guid> https://camilochs.github.io/web/art/index.html </guid>
+  <link> https://camilochs.github.io/web/libros/index.html </link>
+  <guid> https://camilochs.github.io/web/libros/index.html </guid>
   <description>
-    <![CDATA[  Artículos escritos por Camilo Chacón Sartori  ]]>
+    <![CDATA[  Libros escritos por Camilo Chacón Sartori  ]]>
   </description>  
     
   <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>  
@@ -42,12 +42,12 @@
 
 <item>
   <title>
-    <![CDATA[  Libros  ]]>
+    <![CDATA[  Artículos  ]]>
   </title>
-  <link> https://camilochs.github.io/web/libros/index.html </link>
-  <guid> https://camilochs.github.io/web/libros/index.html </guid>
+  <link> https://camilochs.github.io/web/art/index.html </link>
+  <guid> https://camilochs.github.io/web/art/index.html </guid>
   <description>
-    <![CDATA[  Libros escritos por Camilo Chacón Sartori  ]]>
+    <![CDATA[  Artículos escritos por Camilo Chacón Sartori  ]]>
   </description>  
     
   <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>  
