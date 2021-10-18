@@ -19,3 +19,11 @@
 |1|[Programación y Tecnología: Un camino equivocado hacia la construcción de artefactos](https://docdro.id/ST0qbY8)|2019|
 
 [^1]: **C**amilo **C**hacón **S**artori
+
+## Cheat Sheets 
+
+|Título|Fecha|
+|---|:-:|
+|[Julia For Data Science - Graphs](https://docdro.id/hnL5vY7)|2021|
+|[Julia For Data Science - Data frames](https://docdro.id/d57gegS)|2021|
+

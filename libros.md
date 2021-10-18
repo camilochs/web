@@ -12,6 +12,7 @@ rss = "Libros escritos por Camilo Chacón Sartori"
 - Páginas: 204
 - ISBN-13: 9788426733573
 - [Contracubierta e índice](https://docdro.id/qL0gVl1)
+- [Más información](https://www.marcombo.com/mentes-geniales-la-vida-y-obra-de-12-grandes-informaticos-9788426733573/)
 ~~~
 <div class="row">
   <div class="container">
@@ -29,7 +30,8 @@ rss = "Libros escritos por Camilo Chacón Sartori"
 - Editorial: Marcombo
 - Páginas: 314
 - ISBN-13: 9788426732439
-- [Más información](https://www.researchgate.net/publication/348634295_Computacion_y_programacion_funcional)
+- [Enlace a repositorio](https://github.com/Marcombo/computacion-calculo-lambda-programacion-funcional)
+- [Más información](https://www.marcombo.com/computacion-y-programacion-funcional-9788426732439/)
 ~~~
 <div class="row">
   <div class="container">
