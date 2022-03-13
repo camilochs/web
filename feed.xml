@@ -31,7 +31,7 @@
     <![CDATA[  Libros escritos por Camilo Chacón Sartori  ]]>
   </description>  
     
-  <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>  
+  <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
@@ -50,7 +50,26 @@
     <![CDATA[  Artículos escritos por Camilo Chacón Sartori  ]]>
   </description>  
     
-  <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>  
+  <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Camilo Chacón Sartori</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Principio de Programación  ]]>
+  </title>
+  <link> https://camilochs.github.io/web/principios-de-programacion/index.html </link>
+  <guid> https://camilochs.github.io/web/principios-de-programacion/index.html </guid>
+  <description>
+    <![CDATA[  Principio de Programación por Camilo Chacón Sartori  ]]>
+  </description>  
+    
+  <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>  
   
   
   <atom:author>

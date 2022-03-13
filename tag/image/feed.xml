@@ -9,14 +9,14 @@
 
   <channel>
     <title>
-      <![CDATA[  {{fd2rss website_title}}  ]]>
+      <![CDATA[  Camilo Chacón Sartori  ]]>
     </title>
-    <link> {{website_url}} </link>
+    <link> https://camilochs.github.io/web/ </link>
     <description>
-      <![CDATA[  {{fd2rss website_description}}  ]]>
+      <![CDATA[  Sitio web personal de Camilo Chacón Sartori  ]]>
     </description>
     <atom:link
-      href="{{fd_rss_feed_url}}"
+      href="https://camilochs.github.io/web/feed.xml"
       rel="self"
       type="application/rss+xml" />
 
@@ -31,7 +31,7 @@
     <![CDATA[  Artículos escritos por Camilo Chacón Sartori  ]]>
   </description>  
     
-  <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>  
+  <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
