@@ -39,7 +39,7 @@ Otro aspecto, no menos importante, es que cada ejemplo de código del libro se e
 El libro consta de cinco partes: Las raíces de la programación, Principios, Un Mundo de Sistemas, Somos Humanos y Una Buena Vida. Cada uno se puede percibir como un libro independiente, aunque con algunas interrelaciones que se pueden apreciar en la siguiente Figura:
 
 ~~~
-<img src="/images/relacion-partes.svg"  style="margin:0; padding:0;width: 600px; text-align:center" />
+<img src="/assets/relacion-partes.svg"  style="margin:0; padding:0;width: 600px; text-align:center" />
 ~~~
 
 La segunda parte son los principios –que sería el tema nuclear de este libro–, no obstante, se añaden otras cuatro partes complementarias. La primera: Las raíces de la programación, que dispone del conocimiento necesario para entender los principios; la tercera y cuarta parte es lo qué se puede aprender gracias a los conocimientos de los principios; la última parte, la más  independiente, son los Consejos o Una Buena Vida, presenta una serie de sugerencias, no solo profesionales, sino de vida, basadas en mi experiencia profesional y personal de cómo puede construir una carrera que aspire a ser exitosa en la programación.
