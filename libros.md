@@ -6,6 +6,7 @@ rss = "Libros escritos por Camilo Chacón Sartori"
 @def tags = ["syntax", "code"]
 
 # Libros
+
 ## Mentes geniales. La vida y obra de 12 grandes informáticos
 - Fecha de publicación: Octubre 2021
 - Editorial: Marcombo

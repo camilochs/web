@@ -1,6 +1,10 @@
 @def title = "Camilo Chacón Sartori"
 @def tags = ["syntax", "code"]
 
+Noticia: he añadido una [página](/principios-de-programacion/) para ir presentando algunos avances de mi nuevo libro que saldrá en la segunda mitad del 2022[^1].
+
+---
+
 # Presentación
 
  <!-- \tableofcontents you can use \toc as well -->
@@ -16,3 +20,5 @@ Mis áreas de interés son:
 * Filosofía de la informática
 
 ---
+
+[^1]: Con algo de suerte :-)
