@@ -1,7 +1,7 @@
 +++
-title = "Principio de Programación"
+title = "Principios de Programación"
 hascode = true
-rss = "Principio de Programación por Camilo Chacón Sartori"
+rss = "Principios de Programación por Camilo Chacón Sartori"
 +++
 @def tags = ["libros", "programación"]
 
