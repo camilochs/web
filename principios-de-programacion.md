@@ -50,7 +50,7 @@ A continuación dedico una breve reseña de cada parte del libro:
 
 **Parte I - Las raíces de la programación**
 
-¿Cuál es la matemática necesaria que todo programador debe conocer? ¿Cuáles son los conceptos principales que la programación? ¿Por qué los algoritmos y las estructuras de datos son tan importantes para aprender a programar bien? ¿Qué es el pensamiento computacional? Estas son algunas de las preguntas que responde esta primera parte que, en pocas palabras, construye los cimientos de las partes restantes. Es el inicio del camino.
+¿Cuál es la matemática necesaria que todo programador debe conocer? ¿Cuáles son los conceptos principales de la programación? ¿Por qué los algoritmos y las estructuras de datos son tan importantes para aprender a programar bien? ¿Qué es el pensamiento computacional? Estas son algunas de las preguntas que responde esta primera parte que, en pocas palabras, construye los cimientos de las partes restantes. Es el inicio del camino.
 
 
 **Parte II - Principios**
