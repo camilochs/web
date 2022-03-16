@@ -46,7 +46,7 @@ Antes de finalizar esta reseña me gustaría dejar algunas sugerencias para edic
 - Se podría añadir más notas a pie de páginas para explicar –brevemente– a tantos otros personajes que se mencionan, pero que, por un momento, quede con la sensación de gusto a poco. Por ejemplo el caso de Claude Shannon o Bertrand Russell, o el mismo, John McCarthy.
 - Aumentar un poco el tamaño de la letra. (Me refiero al formato en papel.)  
 
-En suma: *es un libro que entusiasmara a los informáticos* (que programan, claro), pues, es raro encontrar libros que se escriban sobre la historia de este apasionante campo (y, sobre todo, en español). Les enseñará como surgió la herramienta que utilizan a diario, pero que, no saben su contexto histórico. 
+En suma: *es un libro que entusiasmara a los informáticos* (que programan, claro), pues, es raro encontrar libros que se escriban sobre la historia de este apasionante campo (y, sobre todo, en español). Les enseñará cómo surgió la herramienta que utilizan a diario, pero que, desconocen su contexto histórico. 
 
 Un programador que no conoce la historia de su rubro carece de alma (¿o de bits? ¿o de ambas cosas?), es solo un tecnólogo (en el mal sentido de la palabra), y estos no serán los que aportarán al campo. Serán los como Manuel que se atreven a hacer cosas que pocos han hecho antes. 
 
