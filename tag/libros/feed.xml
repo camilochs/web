@@ -39,23 +39,4 @@
   </atom:author>
         
 </item>
-
-<item>
-  <title>
-    <![CDATA[  Reseña del libro: «Historia de los lenguajes de programación. Años 1940-1959»   ]]>
-  </title>
-  <link> https://camilochs.github.io/web/historia-lenguajes-programacion/index.html </link>
-  <guid> https://camilochs.github.io/web/historia-lenguajes-programacion/index.html </guid>
-  <description>
-    <![CDATA[  Reseña del libro: «Historia de los lenguajes de programación. Años 1940-1959». Autor: Manuel Rubio.  ]]>
-  </description>  
-    
-  <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>  
-  
-  
-  <atom:author>
-    <atom:name>Camilo Chacón Sartori</atom:name>
-  </atom:author>
-        
-</item>
 </channel></rss>
