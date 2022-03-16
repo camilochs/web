@@ -4,6 +4,13 @@
 
 @def tags = ["syntax", "code", "image"]
 
+
+## Reseñas de libros 
+
+|Título|Fecha|
+|---|:-:|
+|[Historia de los lenguajes de programación. Años 1940-1959](review/historia-lenguajes-programacion)|2022|
+
 ## Artículos
 
 |CCS[^1]|Título|Fecha|
