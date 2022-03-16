@@ -17,7 +17,7 @@ rss = "Reseña del libro: «Historia de los lenguajes de programación. Años 19
 - Páginas: 133
 - [Enlace al libro](https://altenwald.com/historia-de-los-lenguajes-de-programacion)
 
-Aún recuerdo cuando tenía entre mis manos el libro *The Science of Computing. Shaping a Discipline* de Matti Tedre, informático que, es de los pocos, investigadores en el área de la filosofía de la informática. En una de sus páginas menciono algo que nunca he podido olvidar:
+Aún recuerdo cuando tenía entre mis manos el libro *The Science of Computing. Shaping a Discipline* de Matti Tedre, un informático que, es de los pocos, que investigan en el área de la filosofía de la informática. En una de sus páginas mencionó algo que nunca he podido olvidar:
 
 > La historia de la computación moderna no es «una historia», sino muchas historias [...] que están enraizadas en diferentes tradiciones intelectuales.
 
