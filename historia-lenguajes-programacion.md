@@ -1,3 +1,9 @@
++++
+title = "Reseña del libro: «Historia de los lenguajes de programación. Años 1940-1959» "
+hascode = true
+rss = "Reseña del libro: «Historia de los lenguajes de programación. Años 1940-1959». Autor: Manuel Rubio."
++++
+@def tags = ["libros", "programación", "reseña", "historia"]
 
 # Reseña del libro: «Historia de los lenguajes de programación. Años 1940-1959» 
 
