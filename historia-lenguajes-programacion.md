@@ -7,9 +7,9 @@ rss = "Reseña del libro: «Historia de los lenguajes de programación. Años 19
 
 # Reseña del libro: «Historia de los lenguajes de programación. Años 1940-1959» 
 
-
-![]( /_assets/libro-historia-lenguajes-programacion.jpg)
-
+~~
+<img src="/assets/libro-historia-lenguajes-programacion.jpg"  style="margin:0; padding:0;width: 500px; text-align:center" />
+~~~
 
 - Autor: Manuel Ángel Rubio Jiménes
 - Editorial: Altenwald

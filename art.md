@@ -9,7 +9,7 @@
 
 |Título|Fecha|
 |---|:-:|
-|[Historia de los lenguajes de programación. Años 1940-1959](historia-lenguajes-programacion)|2022|
+|[Historia de los lenguajes de programación. Años 1940-1959](/historia-lenguajes-programacion/)|2022|
 
 ## Artículos
 
