@@ -4,6 +4,11 @@
 
 @def tags = ["syntax", "code", "image"]
 
+## Relatos
+
+|Título|Fecha|
+|---|:-:|
+|[El diario de José Chasar. La historia de un simple informático](/diario-jose-chasar/)|2022|
 
 ## Reseñas de libros 
 
