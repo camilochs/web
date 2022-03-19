@@ -36,7 +36,7 @@ El curso se llama: «Introducción a la programación desde una óptica sistémi
 
 Me han avisado que solo tendré tres alumnos, lo cual parece ser un logro, pues, ¿quién en su sano juicio va a un curso de programación comenzando el verano? ¿Acaso no tienen vacaciones? ¿No tiene amigos/as? ¿No tienen vida? Bueno, pudo haber sido peor. Yo esperaba que me llamaran diciéndome: «vamos a tener que suspender el curso porque nadie se inscribió», pero, dadas las circunstancias aquí estoy, esperando a los alumnos, aún falta una hora para comenzar la primera clase. Es a las 10 am, me parece que este horario de clases es razonable, no hay mucha calor y al medio día acabamos. Serán tres clases a la semana, de dos horas cada una, los lunes, miércoles y viernes.
 
-Esta primera clase [^1] comenzaré con algo muy simple, y es, presentar la abstracción, como concepto que nos permite ocultar la complejidad de nuestro mundo, ya sea real o virtual, trayendo a colación ejemplos de las artes (simetría), matemáticas (isomorfismos) y filosofía (transparencia referencial), sobre este último concepto permítame decirle que es esencial en la programación funcional, en la construcción de sistemas fiables y con menos probabilidades de errores. 
+Esta primera clase comenzaré con algo muy simple, y es, presentar la abstracción, como concepto que nos permite ocultar la complejidad de nuestro mundo, ya sea real o virtual, trayendo a colación ejemplos de las artes (simetría), matemáticas (isomorfismos) y filosofía (transparencia referencial), sobre este último concepto permítame decirle que es esencial en la programación funcional, en la construcción de sistemas fiables y con menos probabilidades de errores [^1]. 
 
 Bueno ya falta poco para comenzar, iré a buscar un café…
 
