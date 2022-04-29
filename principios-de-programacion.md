@@ -12,6 +12,97 @@ rss = "Principios de Programación por Camilo Chacón Sartori"
 
 *Nota: el prefacio suele ser la pieza de texto que comienza todo texto; en este, marco la hoja de ruta del libro, los temas a tratar, su forma y estructura, y también, para quién --y para quién no-- está dirigido este libro. Cabe señalar que podría sufrir cambios para su incorporación final en el libro. Por tanto, acéptelo no como algo definitivo.*
 
+## Índice (provisional)
+
+- Prefacio
+- Parte I - El inicio del camino
+    - Las matemáticas que necesita un programador
+        - Lógica
+        - Teoría de conjunto
+        - Álgebra de boole
+        - Estadística y probabilidades
+        - Estructuras discretas
+    - Conceptos elementales
+        - Código binario
+        - Variables
+        - Condicionales
+        - Bucles
+        - Funciones
+        - Recursión
+    -   Algoritmos y estructuras de datos
+        - Algoritmos como tecnología
+        - Estructuras de datos como complemento
+    - Pensamiento computacional
+        - Abstracción
+        - Descomposición y modularidad
+        - Tolerancia a la complejidad
+        - Exactitud y heurística
+- Parte II - Principios
+    - Diseño
+    - Estado
+    - Recurso
+    - Coordinación
+    - Transformación
+    - Documentación
+    - Evaluación
+    - Ethos
+- Parte III - Un mundo de sistemas
+    - Teoría de la computación
+        - Modelos secuenciales
+        - Modelos funcionales
+        - Modelos concurrentes
+    - Lenguajes de programación
+        - Generales
+        - Específicos
+    - Sistemas operativos
+        - MS Windows
+        - UNIX
+        - macOS
+    - Base de datos
+        - Relacionales
+        - No relacionales
+    - Sistemas distribuidos
+        - Características claves
+        - Sistemas de colas distribuidas
+    - Inteligencia artificial
+        - Sistemas expertos
+        - Autómatas celulares
+        - Aprendizaje automático
+    - Computación cuántica
+        - Puertas cuánticas
+        - Modelos de computación
+        - Ordenadores cuánticos
+        - Corrección de errores
+- Parte IV - Somos humanos
+    - Ciclo de vida de un proyecto
+        - Requerimiento
+        - Especificación
+        - Diseño
+        - Implementación
+        - Pruebas
+        - Despliegue
+        - Código legado
+    - Tipos de proyectos de software
+        - De sistemas
+        - De aplicación
+        - De datos
+        - Para la investigación científica
+- Parte V - Buena vida (consejos)
+    - Sobre el aprendizaje de la programación
+        - Herramientas
+        - Buenas prácticas
+        - Filosóficos
+        - Avanzar en tu carrera
+    - Sobre el trabajo en equipo
+        - Compartir conocimiento
+        - Conversaciones sinceras
+    - Sobre la vida personal
+- Epílogo
+- Glosario
+- Referencias
+- Índice alfabético
+
+
 ## Prefacio 
 
 Fecha: 13/03/2022
