@@ -29,14 +29,57 @@
   <guid> https://camilochs.github.io/web/diario-jose-chasar/index.html </guid>
   <description>
     <![CDATA[  El diario de José Chasar  ]]>
-  </description>  
-    
-  <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>  
+  </description>
+
+  
+  
+
+  
+  <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+
+  
   
   
   <atom:author>
     <atom:name>Camilo Chacón Sartori</atom:name>
   </atom:author>
-        
+  
+
+  
+
+  
+
+  
+</item>
+
+<item>
+  <title>
+    <![CDATA[  El Genio Radaigual  ]]>
+  </title>
+  <link> https://camilochs.github.io/web/el-genio-radaigual/index.html </link>
+  <guid> https://camilochs.github.io/web/el-genio-radaigual/index.html </guid>
+  <description>
+    <![CDATA[  El Genio Radaigual  ]]>
+  </description>
+
+  
+  
+
+  
+  <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+
+  
+  
+  
+  <atom:author>
+    <atom:name>Camilo Chacón Sartori</atom:name>
+  </atom:author>
+  
+
+  
+
+  
+
+  
 </item>
 </channel></rss>
