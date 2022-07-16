@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
+
+  <channel>
+    <title>
+      <![CDATA[  Camilo Chacón Sartori  ]]>
+    </title>
+    <link> https://camilochs.github.io/web/ </link>
+    <description>
+      <![CDATA[  Sitio web personal de Camilo Chacón Sartori  ]]>
+    </description>
+    <atom:link
+      href="https://camilochs.github.io/web/feed.xml"
+      rel="self"
+      type="application/rss+xml" />
+
+
+<item>
+  <title>
+    <![CDATA[  El diario de José Chasar  ]]>
+  </title>
+  <link> https://camilochs.github.io/web/diario-jose-chasar/index.html </link>
+  <guid> https://camilochs.github.io/web/diario-jose-chasar/index.html </guid>
+  <description>
+    <![CDATA[  El diario de José Chasar  ]]>
+  </description>
+
+  
+  
+
+  
+  <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+
+  
+  
+  
+  <atom:author>
+    <atom:name>Camilo Chacón Sartori</atom:name>
+  </atom:author>
+  
+
+  
+
+  
+
+  
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Reseña del libro: «Historia de los lenguajes de programación. Años 1940-1959»   ]]>
+  </title>
+  <link> https://camilochs.github.io/web/historia-lenguajes-programacion/index.html </link>
+  <guid> https://camilochs.github.io/web/historia-lenguajes-programacion/index.html </guid>
+  <description>
+    <![CDATA[  Reseña del libro: «Historia de los lenguajes de programación. Años 1940-1959». Autor: Manuel Rubio.  ]]>
+  </description>
+
+  
+  
+
+  
+  <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+
+  
+  
+  
+  <atom:author>
+    <atom:name>Camilo Chacón Sartori</atom:name>
+  </atom:author>
+  
+
+  
+
+  
+
+  
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Principios de Programación  ]]>
+  </title>
+  <link> https://camilochs.github.io/web/principios-de-programacion/index.html </link>
+  <guid> https://camilochs.github.io/web/principios-de-programacion/index.html </guid>
+  <description>
+    <![CDATA[  Principios de Programación por Camilo Chacón Sartori  ]]>
+  </description>
+
+  
+  
+
+  
+  <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+
+  
+  
+  
+  <atom:author>
+    <atom:name>Camilo Chacón Sartori</atom:name>
+  </atom:author>
+  
+
+  
+
+  
+
+  
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Artículos  ]]>
+  </title>
+  <link> https://camilochs.github.io/web/art/index.html </link>
+  <guid> https://camilochs.github.io/web/art/index.html </guid>
+  <description>
+    <![CDATA[  Artículos escritos por Camilo Chacón Sartori  ]]>
+  </description>
+
+  
+  
+
+  
+  <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+
+  
+  
+  
+  <atom:author>
+    <atom:name>Camilo Chacón Sartori</atom:name>
+  </atom:author>
+  
+
+  
+
+  
+
+  
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Libros  ]]>
+  </title>
+  <link> https://camilochs.github.io/web/libros/index.html </link>
+  <guid> https://camilochs.github.io/web/libros/index.html </guid>
+  <description>
+    <![CDATA[  Libros escritos por Camilo Chacón Sartori  ]]>
+  </description>
+
+  
+  
+
+  
+  <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+
+  
+  
+  
+  <atom:author>
+    <atom:name>Camilo Chacón Sartori</atom:name>
+  </atom:author>
+  
+
+  
+
+  
+
+  
+</item>
+
+<item>
+  <title>
+    <![CDATA[  El Genio Radaigual  ]]>
+  </title>
+  <link> https://camilochs.github.io/web/el-genio-radaigual/index.html </link>
+  <guid> https://camilochs.github.io/web/el-genio-radaigual/index.html </guid>
+  <description>
+    <![CDATA[  El Genio Radaigual  ]]>
+  </description>
+
+  
+  
+
+  
+  <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+
+  
+  
+  
+  <atom:author>
+    <atom:name>Camilo Chacón Sartori</atom:name>
+  </atom:author>
+  
+
+  
+
+  
+
+  
+</item>
+</channel></rss>

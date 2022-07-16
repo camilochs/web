@@ -8,6 +8,7 @@
 
 |Título|Fecha|
 |---|:-:|
+|[El Genio Radaigual](/el-genio-radaigual)|2022|
 |[El diario de José Chasar. La historia de un simple informático](/diario-jose-chasar/)|2022|
 
 ## Reseñas de libros 
