@@ -1,7 +1,10 @@
 @def title = "Camilo Chacón Sartori"
 @def tags = ["syntax", "code"]
 
-Noticia: he añadido una [página](/principios-de-programacion/) para ir presentando algunos avances de mi nuevo libro que saldrá en la segunda mitad del 2022[^1].
+Noticias: 
+
+ - Uno de mis proyectos favoritos y que más me entusiasma es el Diccionario de Computación en español. Lo he comenzado a desarrollar y se encuentra disponible en [GitHub](https://github.com/camilochs/diccionario-computacion).
+ - He añadido una [página](/principios-de-programacion/) para ir presentando algunos avances de mi nuevo libro que saldrá en la segunda mitad del 2022[^1].
 
 ---
 
