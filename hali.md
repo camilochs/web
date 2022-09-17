@@ -1,12 +1,12 @@
 +++
-title = "Un homenaje a Josefa: la mejor programadora que conozco"
+title = "Un homenaje a Hali: la mejor programadora que conozco"
 hascode = true
-rss = "Un homenaje a Josefa: la mejor programadora que conozco"
+rss = "Un homenaje a Hali: la mejor programadora que conozco"
 +++
 @def tags = ["relato", "programadora", "informática"]
 
 
-# Un homenaje a Josefa: la mejor programadora que conozco
+# Un homenaje a Hali: la mejor programadora que conozco
 
 ## Una historia de códigos, desencuentros y un poco de fortuna
 
