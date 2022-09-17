@@ -8,7 +8,7 @@
 
 |Título|Fecha|
 |---|:-:|
-|[Un homenaje a Hali, la mejor programadora que conozco](/hali)|2022|
+|[Un homenaje a Hali: la mejor programadora que conozco](/hali)|2022|
 |[El Genio Radaigual](/el-genio-radaigual)|2022|
 |[El diario de José Chasar. La historia de un simple informático](/diario-jose-chasar/)|2022|
 
