@@ -2,9 +2,9 @@
 @def tags = ["syntax", "code"]
 
 Noticias: 
-
- - Uno de mis proyectos favoritos y que más me entusiasma es el Diccionario de Computación en español. Lo he comenzado a desarrollar y se encuentra disponible en [GitHub](https://github.com/camilochs/diccionario-computacion).
- - He añadido una [página](/principios-de-programacion/) para ir presentando algunos avances de mi nuevo libro que saldrá en la segunda mitad del 2022[^1].
+ - [Octubre-2022] He revivido mi [canal de Youtube](https://www.youtube.com/channel/UCmvwiEa3m6mrgjIbDyZr0ag).
+ - [Septiembre-2022] Junto a Christian Blum ganamos el premio "Best Paper Award" en la conferencia FedCSIS, Sofia, Bulgaria. Nuestro artículo lo pueden encontrar [aquí](https://www.researchgate.net/publication/364080120_Boosting_a_Genetic_Algorithm_with_Graph_Neural_Networks_for_Multi-Hop_Influence_Maximization_in_Social_Networks).
+ - He añadido una [página](/principios-de-programacion/) para ir presentando algunos avances de mi nuevo libro que saldrá en la segunda mitad del 2022. [^1]
 
 ---
 
