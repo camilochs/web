@@ -2,9 +2,9 @@
 @def tags = ["syntax", "code"]
 
 Noticias: 
+ - [Febrero-2023] Hace unos meses comencé un [newsletter](camilocs.substack.com/). 
  - [Octubre-2022] He revivido mi [canal de Youtube](https://www.youtube.com/channel/UCmvwiEa3m6mrgjIbDyZr0ag).
- - [Septiembre-2022] Junto a Christian Blum ganamos el premio "Best Paper Award" en la conferencia FedCSIS, Sofia, Bulgaria. Nuestro artículo lo pueden encontrar [aquí](https://www.researchgate.net/publication/364080120_Boosting_a_Genetic_Algorithm_with_Graph_Neural_Networks_for_Multi-Hop_Influence_Maximization_in_Social_Networks).
- - He añadido una [página](/principios-de-programacion/) para ir presentando algunos avances de mi nuevo libro que saldrá en la segunda mitad del 2022. [^1]
+ - [Septiembre-2022] Junto a Christian Blum, ganamos el premio *Best Paper Award* por nuestro artículo [*Boosting a Genetic Algorithm with Graph Neural Networks for Multi-Hop Influence Maximization in Social Networks*](https://www.researchgate.net/publication/364080120_Boosting_a_Genetic_Algorithm_with_Graph_Neural_Networks_for_Multi-Hop_Influence_Maximization_in_Social_Networks), presentado en la conferencia FedCSIS, Sofía, Bulgaria.
 
 ---
 
@@ -12,7 +12,7 @@ Noticias:
 
  <!-- \tableofcontents you can use \toc as well -->
 
-Soy un estudiante chileno de doctorado en informática en [IIIA-CSIC](https://www.iiia.csic.es/en-us/people/person/?person_id=161), Cataluña, España. 
+Soy un estudiante chileno de doctorado en ciencias de la computación en [IIIA-CSIC](https://www.iiia.csic.es/en-us/people/person/?person_id=161) y en la Universitat Autònoma de Barcelona, Cataluña, España. 
 
 Mis áreas de interés son:
 
@@ -23,5 +23,3 @@ Mis áreas de interés son:
 * Filosofía de la informática
 
 ---
-
-[^1]: Con algo de suerte :-)
