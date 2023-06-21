@@ -2,7 +2,8 @@
 @def tags = ["syntax", "code"]
 
 Noticias: 
- - [Mayo-2023] Junto a Enrique Ramírez Sánchez y Christian Blum, nos nominaron a *Best Paper Award* por nuestro artículo: Q-Learning Ant Colony Optimization supported by Deep Learning for Target Set Selection, en la conferencia [GECCO 2023](https://gecco-2023.sigevo.org/Best-Paper-Nominations#&sort%5Bwptrackerlist23-1%5D=0-0&filter%5Bwptrackerlist23-1%5D=eco--) (ECOM Track).
+- [Junio-2023] Se publicó mi artículo (junto a Christian Blum) [*Search Trajectory Networks Meet the Web: A Web Application for the Visual Comparison of Optimization Algorithms*](https://dl.acm.org/doi/10.1145/3587828.3587843), presentado en Malasia, en febrero de este año.
+ - [Mayo-2023] Junto a Enrique Ramírez Sánchez y Christian Blum, nos nominaron a *Best Paper Award* por nuestro artículo: *Q-Learning Ant Colony Optimization supported by Deep Learning for Target Set Selection*, en la conferencia [GECCO 2023](https://gecco-2023.sigevo.org/Best-Paper-Nominations#&sort%5Bwptrackerlist23-1%5D=0-0&filter%5Bwptrackerlist23-1%5D=eco--) (ECOM Track).
  - [Abril-2023] Mi libro *Principios de Programación* lo he terminado. Ahora se encuentra en proceso de revisión. 
  - [Febrero-2023] Hace unos meses comencé un [newsletter](camilocs.substack.com/). 
  - [Octubre-2022] He revivido mi [canal de Youtube](https://www.youtube.com/channel/UCmvwiEa3m6mrgjIbDyZr0ag).
