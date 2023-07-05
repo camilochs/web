@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
+
+  <channel>
+    <title>
+      <![CDATA[  Camilo Chacón Sartori  ]]>
+    </title>
+    <link> https://camilochs.github.io/web/ </link>
+    <description>
+      <![CDATA[  Sitio web personal de Camilo Chacón Sartori  ]]>
+    </description>
+    <atom:link
+      href="https://camilochs.github.io/web/feed.xml"
+      rel="self"
+      type="application/rss+xml" />
+
+
+<item>
+  <title>
+    <![CDATA[  Artículos  ]]>
+  </title>
+  <link> https://camilochs.github.io/web/art/index.html </link>
+  <guid> https://camilochs.github.io/web/art/index.html </guid>
+  <description>
+    <![CDATA[  Artículos escritos por Camilo Chacón Sartori  ]]>
+  </description>  
+    
+  <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Camilo Chacón Sartori</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Libros  ]]>
+  </title>
+  <link> https://camilochs.github.io/web/libros/index.html </link>
+  <guid> https://camilochs.github.io/web/libros/index.html </guid>
+  <description>
+    <![CDATA[  Libros escritos por Camilo Chacón Sartori  ]]>
+  </description>  
+    
+  <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Camilo Chacón Sartori</atom:name>
+  </atom:author>
+        
+</item>
+</channel></rss>
