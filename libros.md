@@ -8,7 +8,6 @@ rss = "Libros escritos por Camilo Chacón Sartori"
 # Libros
 
 ## Mentes geniales. La vida y obra de 12 grandes informáticos
-
 ~~~
 <div class="row">
   <div class="container">
