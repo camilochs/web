@@ -21,7 +21,6 @@ rss = "Libros escritos por Camilo Chacón Sartori"
   </div>
 </div>
 ~~~
-
 - Fecha de publicación: Octubre 2021
 - Editorial: Marcombo
 - Páginas: 204
