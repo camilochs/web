@@ -25,6 +25,7 @@ rss = "Libros escritos por Camilo Chacón Sartori"
 - Páginas: 556
 - ISBN: 9788426736826
 - [Muestra (índice e introducción)](https://docdro.id/ndcJ4b2)
+- [Amazon.es](https://www.amazon.es/Principios-programaci%C3%B3n-Camilo-Chac%C3%B3n-Sartori/dp/8426736823/ref=sr_1_1?qid=1693495298&refinements=p_27%3ACamilo+Chac%C3%B3n+Sartori&s=books&sr=1-1)
 
 ## Mentes geniales. La vida y obra de 12 grandes informáticos
 ~~~
