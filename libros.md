@@ -3,7 +3,7 @@ title = "Libros"
 hascode = true
 rss = "Libros escritos por Camilo Chacón Sartori"
 +++
-@def tags = ["libros", "Camilo Chacón Sartori", "marcombo", "principios de programación", "mentes geniales", "computación", "programación funcional"]
+@def tags = ["syntax", "code"]
 
 # Libros
 
@@ -21,6 +21,7 @@ rss = "Libros escritos por Camilo Chacón Sartori"
   </div>
 </div>
 ```
+
 - Fecha de publicación: Septiembre 2023
 - Editorial: Marcombo
 - Páginas: 556
@@ -44,6 +45,7 @@ rss = "Libros escritos por Camilo Chacón Sartori"
   </div>
 </div>
 ```
+
 - Fecha de publicación: Octubre 2021
 - Editorial: Marcombo
 - Páginas: 204
@@ -72,6 +74,7 @@ rss = "Libros escritos por Camilo Chacón Sartori"
   </div>
 </div>
 ```
+
 - Fecha de publicación: Enero 2021
 - Editorial: Marcombo
 - Páginas: 314
