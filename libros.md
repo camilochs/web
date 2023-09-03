@@ -3,13 +3,12 @@ title = "Libros"
 hascode = true
 rss = "Libros escritos por Camilo Chacón Sartori"
 +++
-@def tags = ["syntax", "code", "image"]
+@def tags = ["syntax", "code"]
 
 # Libros
 
 ## Principios de programación
-
-```
+~~~
 <div class="row">
   <div class="container">
     <img class="left" style="width: 50%"  src="/assets/libro3.png">
@@ -20,8 +19,7 @@ rss = "Libros escritos por Camilo Chacón Sartori"
     <div style="clear: both"></div>  
   </div>
 </div>
-```
-
+~~~
 - Fecha de publicación: Septiembre 2023
 - Editorial: Marcombo
 - Páginas: 556
@@ -32,8 +30,7 @@ rss = "Libros escritos por Camilo Chacón Sartori"
   - [fnac](https://www.fnac.es/a10402584/CAMILO-CHACON-SARTORI-Principios-de-programacion)
 
 ## Mentes geniales. La vida y obra de 12 grandes informáticos
-
-```
+~~~
 <div class="row">
   <div class="container">
     <img class="left" style="width: 50%"  src="/assets/libro2.jpg">
@@ -44,8 +41,7 @@ rss = "Libros escritos por Camilo Chacón Sartori"
     <div style="clear: both"></div>  
   </div>
 </div>
-```
-
+~~~
 - Fecha de publicación: Octubre 2021
 - Editorial: Marcombo
 - Páginas: 204
@@ -61,8 +57,7 @@ rss = "Libros escritos por Camilo Chacón Sartori"
   - [Reseña de Mentes Geniales | Camilo Chacón Sartori | Los mejores libros para devs](https://youtu.be/fEgQzbhEvWc)
 
 ## Computación y programación funcional
-
-```
+~~~
 <div class="row">
   <div class="container">
     <img class="left" style="width: 50%"  src="/assets/libro1.jpg">
@@ -73,8 +68,7 @@ rss = "Libros escritos por Camilo Chacón Sartori"
     <div style="clear: both"></div>  
   </div>
 </div>
-```
-
+~~~
 - Fecha de publicación: Enero 2021
 - Editorial: Marcombo
 - Páginas: 314
