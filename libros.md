@@ -15,7 +15,7 @@ rss = "Libros escritos por Camilo Chacón Sartori"
     <p>
     Un libro generalista de informática, que presenta una nueva forma de entender la programación a través de ocho principios. Además de abordar aspectos históricos de la programación.
     </p>
-    <p>Objetivo: ampliar los horizontes de lo que entendemos por programación</p>
+    <p>Objetivo: ampliar los horizontes de lo que entendemos por programación.</p>
     <div style="clear: both"></div>      
   </div>
 </div>
