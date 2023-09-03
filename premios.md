@@ -18,7 +18,7 @@ rss = "Premios de Camilo Chacón Sartori"
 
 ## Industria
 
-* [Mining Tag S.A.](https://www.miningtag.com/en) me elegio el mejor trabajador del año 2014, por mis aportes al desarrollo de los primeros software de la empresa (Chile).
+* [Mining Tag S.A.](https://www.miningtag.com/en) (Chile) me elegio el mejor trabajador del año 2014, por mis aportes al desarrollo de los primeros software de la empresa.
 
 ## Redes sociales
 
