@@ -3,7 +3,7 @@ title = "Libros"
 hascode = true
 rss = "Libros escritos por Camilo Chacón Sartori"
 +++
-@def tags = ["syntax", "code"]
+@def tags = ["syntax", "code", "image"]
 
 # Libros
 
@@ -17,7 +17,7 @@ rss = "Libros escritos por Camilo Chacón Sartori"
     Un libro generalista de informática, que presenta una nueva forma de entender la programación a través de ocho principios. Además de abordar aspectos históricos de la programación.
     </p>
     <p>Objetivo: ampliar los horizontes de lo que entendemos por programación.</p>
-    <div style="clear: both"></div>    
+    <div style="clear: both"></div>  
   </div>
 </div>
 ```
@@ -41,7 +41,7 @@ rss = "Libros escritos por Camilo Chacón Sartori"
     Un libro que recorre la vida de 12 grandes informáticos, ganadores del premio Turing.
     </p>
     <p>Objetivo: inspirar a nueva generación de entusiastas de la informática.</p>
-    <div style="clear: both"></div>    
+    <div style="clear: both"></div>  
   </div>
 </div>
 ```
@@ -70,7 +70,7 @@ rss = "Libros escritos por Camilo Chacón Sartori"
     Una introducción a la programación funcional desde el cálculo lambda para luego aprender lenguajes de alto nivel como Racket y Python.
     </p>
     <p>Objetivo: demostrar los beneficios de la programación funcional sin renunciar a la teoría, y sin caer, en el dogmatismo de «un paradigma es mejor que otro».</p>
-    <div style="clear: both"></div>    
+    <div style="clear: both"></div>  
   </div>
 </div>
 ```
