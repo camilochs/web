@@ -7,6 +7,25 @@ rss = "Libros escritos por Camilo Chacón Sartori"
 
 # Libros
 
+## Principios de programación
+~~~
+<div class="row">
+  <div class="container">
+    <img class="left" style="width: 50%"  src="/assets/libro3.png">
+    <p>
+    Un libro generalista de informática, que presenta una nueva forma de entender la programación a través de ocho principios. Además de abordar aspectos históricos de la programación.
+    </p>
+    <p>Objetivo: ampliar los horizontes de lo que entendemos por programación</p>
+    <div style="clear: both"></div>      
+  </div>
+</div>
+~~~
+- Fecha de publicación: Septiembre 2023
+- Editorial: Marcombo
+- Páginas: 556
+- ISBN: 9788426736826
+- [Muestra (índice e introducción)](https://docdro.id/ndcJ4b2)
+
 ## Mentes geniales. La vida y obra de 12 grandes informáticos
 ~~~
 <div class="row">
