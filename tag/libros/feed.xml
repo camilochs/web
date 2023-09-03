@@ -23,25 +23,6 @@
 
 <item>
   <title>
-    <![CDATA[  Libros  ]]>
-  </title>
-  <link> https://camilochs.github.io/web/libros/index.html </link>
-  <guid> https://camilochs.github.io/web/libros/index.html </guid>
-  <description>
-    <![CDATA[  Libros escritos por Camilo Chacón Sartori  ]]>
-  </description>  
-    
-  <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>  
-  
-  
-  <atom:author>
-    <atom:name>Camilo Chacón Sartori</atom:name>
-  </atom:author>
-        
-</item>
-
-<item>
-  <title>
     <![CDATA[  Reseña del libro: «Historia de los lenguajes de programación. Años 1940-1959»   ]]>
   </title>
   <link> https://camilochs.github.io/web/historia-lenguajes-programacion/index.html </link>
