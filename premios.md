@@ -20,4 +20,4 @@ rss = "Premios a Camilo Chacón Sartori"
 
 # Redes sociales
 
-* Fui elegido **Escritor destacado** de **QuoraES** en *cinco años consecutivos* (2018-2022), por mis más de 800 respuestas sobre ciencias de la computación.
+* Fui elegido **Escritor destacado** de **QuoraES** durante *cinco años consecutivos* (2018-2022), por mis más de 800 respuestas sobre ciencias de la computación.
