@@ -31,7 +31,26 @@
     <![CDATA[  Libros escritos por Camilo Chacón Sartori  ]]>
   </description>  
     
-  <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>  
+  <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Camilo Chacón Sartori</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Libros  ]]>
+  </title>
+  <link> https://camilochs.github.io/web/premios/index.html </link>
+  <guid> https://camilochs.github.io/web/premios/index.html </guid>
+  <description>
+    <![CDATA[  Premios de Camilo Chacón Sartori  ]]>
+  </description>  
+    
+  <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
@@ -50,7 +69,26 @@
     <![CDATA[  Artículos escritos por Camilo Chacón Sartori  ]]>
   </description>  
     
-  <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>  
+  <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Camilo Chacón Sartori</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  El diario de José Chasar  ]]>
+  </title>
+  <link> https://camilochs.github.io/web/diario-jose-chasar/index.html </link>
+  <guid> https://camilochs.github.io/web/diario-jose-chasar/index.html </guid>
+  <description>
+    <![CDATA[  El diario de José Chasar  ]]>
+  </description>  
+    
+  <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
