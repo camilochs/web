@@ -8,7 +8,7 @@ rss = "Premios de Camilo Chacón Sartori"
 
 +++
 
-@def tags = ["premios", "investigación", "industria", "quora", "chile"]
+@def tags = ["syntax", "code"]
 
 # Premios
 
