@@ -4,6 +4,15 @@
 
 @def tags = ["syntax", "code", "image"]
 
+## Artículos científicos
+
+|Título|Fecha|
+|---|:-:|
+|[STNWeb: A new visualization tool for analyzing optimization algorithms](https://www.researchgate.net/publication/372955075_STNWeb_A_new_visualization_tool_for_analyzing_optimization_algorithms)|2023|
+|[Q-Learning Ant Colony Optimization supported by Deep Learning for Target Set Selection](https://www.researchgate.net/publication/372324979_Q-Learning_Ant_Colony_Optimization_supported_by_Deep_Learning_for_Target_Set_Selection)|2023|
+|[Search Trajectory Networks Meet the Web: A Web Application for the Visual Comparison of Optimization Algorithms](https://www.researchgate.net/publication/371733274_Search_Trajectory_Networks_Meet_the_Web_A_Web_Application_for_the_Visual_Comparison_of_Optimization_Algorithms)|2023|
+|[Boosting a Genetic Algorithm with Graph Neural Networks for Multi-Hop Influence Maximization in Social Networks](https://www.researchgate.net/publication/364080120_Boosting_a_Genetic_Algorithm_with_Graph_Neural_Networks_for_Multi-Hop_Influence_Maximization_in_Social_Networks)|2022|
+
 ## Relatos
 
 |Título|Fecha|
