@@ -27,7 +27,15 @@
 |---|:-:|
 |[Historia de los lenguajes de programación. Años 1940-1959](/historia-lenguajes-programacion/)|2022|
 
-## Artículos
+## Cheat Sheets 
+
+|Título|Fecha|
+|---|:-:|
+|[Julia For Data Science - Graphs](https://docdro.id/hnL5vY7)|2021|
+|[Julia For Data Science - Data frames](https://docdro.id/d57gegS)|2021|
+
+
+## Otros
 
 |CCS[^1]|Título|Fecha|
 |:-:|---|:-:|
@@ -42,11 +50,3 @@
 |1|[Programación y Tecnología: Un camino equivocado hacia la construcción de artefactos](https://drive.google.com/file/d/1X1q-j9hCixMyM_4LdWkomE949MfK2cAt/view?usp=sharing)|2019|
 
 [^1]: **C**amilo **C**hacón **S**artori
-
-## Cheat Sheets 
-
-|Título|Fecha|
-|---|:-:|
-|[Julia For Data Science - Graphs](https://docdro.id/hnL5vY7)|2021|
-|[Julia For Data Science - Data frames](https://docdro.id/d57gegS)|2021|
-
