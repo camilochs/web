@@ -26,6 +26,8 @@ rss = "Libros escritos por Camilo Chacón Sartori"
 - ISBN: 9788426736826
 - [Muestra (índice e introducción)](https://docdro.id/ndcJ4b2)
 - ¿Dónde comprarlo?
+  - [Buscalibre (Chile)](https://www.buscalibre.cl/libro-principios-de-programacion/9788426736826/p/55624443)
+  - [Amazon.com](https://www.amazon.com/Principios-programaci%C3%B3n-Camilo-Chac%C3%B3n-Sartori/dp/8426736823/ref=sr_1_1?crid=2H4GO13UZKFSF&keywords=principios+de+programaci%C3%B3n+camilo&qid=1703706352&sprefix=principios+de+programaci%C3%B3n+cami%2Caps%2C264&sr=8-1)
   - [Amazon.es](https://www.amazon.es/Principios-programaci%C3%B3n-Camilo-Chac%C3%B3n-Sartori/dp/8426736823/ref=sr_1_1?qid=1693495298&refinements=p_27%3ACamilo+Chac%C3%B3n+Sartori&s=books&sr=1-1)
   - [fnac](https://www.fnac.es/a10402584/CAMILO-CHACON-SARTORI-Principios-de-programacion)
 
@@ -49,6 +51,8 @@ rss = "Libros escritos por Camilo Chacón Sartori"
 - [Contracubierta e índice](https://docdro.id/qL0gVl1)
 - [Más información](https://www.marcombo.com/mentes-geniales-la-vida-y-obra-de-12-grandes-informaticos-9788426733573/)
 - ¿Dónde comprarlo?
+  - [Buscalibre (Chile)](https://www.buscalibre.cl/libro-mentes-geniales-la-vida-y-obra-de-12-grandes-informaticos/9788426733573/p/53619955)
+  - [Amazon.com](https://www.amazon.com/Mentes-geniales-vida-grandes-inform%C3%A1ticos/dp/8426733573/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1703706393&sr=1-1)
   - [Amazon.es](https://www.amazon.es/Mentes-geniales-vida-grandes-informáticos/dp/8426733573)
   - [BookDepository](https://www.bookdepository.com/Mentes-geniales-La-vida-y-obra-de-12-grandes-inform%C3%A1ticos-Camilo-Chac%C3%B3n-Sartori/9788426733573?ref=grid-view&qid=1657898197787&sr=1-2)
   - [Mercadolibre (Argentina)](https://articulo.mercadolibre.com.ar/MLA-1104758713-libro-mentes-geniales-la-vida-de-12-grandes-informaticos-_JM#position=7&search_layout=stack&type=item&tracking_id=b0d83bf8-8344-4b41-996b-2ea090be7487)
@@ -76,6 +80,7 @@ rss = "Libros escritos por Camilo Chacón Sartori"
 - [Enlace a repositorio](https://github.com/Marcombo/computacion-calculo-lambda-programacion-funcional)
 - [Más información](https://www.marcombo.com/computacion-y-programacion-funcional-9788426732439/)
 - ¿Dónde comprarlo?
+  - [Buscalibre (Chile)](https://www.buscalibre.cl/libro-computacion-y-programacion-funcional/9788426732439/p/53130911)
   - [Amazon.es](https://www.amazon.es/Computación-programación-funcional-Camilo-Sartori/dp/8426732437)
   - [BookDepository](https://www.bookdepository.com/Computaci%C3%B3n-y-programaci%C3%B3n-funcional-Camilo-Chac%C3%B3n-Sartori/9788426732439?ref=grid-view&qid=1657898221229&sr=1-1)
   - [Mercadolibre (Argentina)](https://articulo.mercadolibre.com.ar/MLA-915403108-libro-computacion-y-programacion-funcional-_JM)
