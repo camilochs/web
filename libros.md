@@ -27,9 +27,11 @@ rss = "Libros escritos por Camilo Chacón Sartori"
 - [Muestra (índice e introducción)](https://docdro.id/ndcJ4b2)
 - ¿Dónde comprarlo?
   - [Buscalibre (Chile)](https://www.buscalibre.cl/libro-principios-de-programacion/9788426736826/p/55624443)
+  - [TodosTusLibros (España)](https://www.todostuslibros.com/libros/principios-de-programacion_978-84-267-3682-6)
   - [Amazon.com](https://www.amazon.com/Principios-programaci%C3%B3n-Camilo-Chac%C3%B3n-Sartori/dp/8426736823/ref=sr_1_1?crid=2H4GO13UZKFSF&keywords=principios+de+programaci%C3%B3n+camilo&qid=1703706352&sprefix=principios+de+programaci%C3%B3n+cami%2Caps%2C264&sr=8-1)
   - [Amazon.es](https://www.amazon.es/Principios-programaci%C3%B3n-Camilo-Chac%C3%B3n-Sartori/dp/8426736823/ref=sr_1_1?qid=1693495298&refinements=p_27%3ACamilo+Chac%C3%B3n+Sartori&s=books&sr=1-1)
   - [fnac](https://www.fnac.es/a10402584/CAMILO-CHACON-SARTORI-Principios-de-programacion)
+  - [Labrys (Perú)](https://labrys.pe/products/marcombo-principios-de-programacion-9788426736826-519529e83def43bf9c5c402a833c8c55?q=camilo%20chacon%20sartori)
 
 ## Mentes geniales. La vida y obra de 12 grandes informáticos
 ~~~
