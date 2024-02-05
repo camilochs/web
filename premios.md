@@ -27,5 +27,5 @@ rss = "Premios de Camilo Chacón Sartori"
 
 ## Reconocimientos en estudios formales
 
-* Obtuve distinción máxima y primero de mi generación en el máster de Ingeniería en informática (Pontificia Universidad Católica de Valparaíso, Chile). Nota defensa de grado: 7 y promedio general: 6.9 (en escala de 1 a 7).
+* Obtuve distinción máxima y fui el primero de mi generación en el máster de Ingeniería en Informática (Pontificia Universidad Católica de Valparaíso, Chile). Nota defensa de grado: 7 y promedio general: 6.9 (en escala de 1 a 7).
 * Obtuve distinción máxima en mi grado de Ingeniería de ejecución en Informática (Universidad de los Lagos, Chile). Nota defensa de grado: 7 y promedio general: 6.0 (en escala de 1 a 7). 
