@@ -24,9 +24,9 @@ rss = "Libros escritos por Camilo Chacón Sartori"
 - Editorial: Marcombo
 - Páginas: 556
 - ISBN: 9788426736826
-- [Muestra (índice e introducción)](https://docdro.id/ndcJ4b2)
+- [Muestra (índice e introducción)](https://www.researchgate.net/publication/373708742_Principios_de_Programacion)
 - ¿Dónde comprarlo?
-  - [Buscalibre (Chile)](https://www.buscalibre.cl/libro-principios-de-programacion/9788426736826/p/55624443)
+  - [Buscalibre (Latinoamérica)](https://www.buscalibre.cl/libro-principios-de-programacion/9788426736826/p/55624443)
   - [TodosTusLibros (España)](https://www.todostuslibros.com/libros/principios-de-programacion_978-84-267-3682-6)
   - [Amazon.com](https://www.amazon.com/Principios-programaci%C3%B3n-Camilo-Chac%C3%B3n-Sartori/dp/8426736823/ref=sr_1_1?crid=2H4GO13UZKFSF&keywords=principios+de+programaci%C3%B3n+camilo&qid=1703706352&sprefix=principios+de+programaci%C3%B3n+cami%2Caps%2C264&sr=8-1)
   - [Amazon.es](https://www.amazon.es/Principios-programaci%C3%B3n-Camilo-Chac%C3%B3n-Sartori/dp/8426736823/ref=sr_1_1?qid=1693495298&refinements=p_27%3ACamilo+Chac%C3%B3n+Sartori&s=books&sr=1-1)
@@ -50,14 +50,13 @@ rss = "Libros escritos por Camilo Chacón Sartori"
 - Editorial: Marcombo
 - Páginas: 204
 - ISBN-13: 9788426733573
-- [Contracubierta e índice](https://docdro.id/qL0gVl1)
+- [Contracubierta e índice](https://www.researchgate.net/publication/355029054_Mentes_geniales_La_vida_y_obra_de_12_grandes_informaticos?_sg%5B0%5D=YxRAjKfHJ5k7ok0EOl4-IZYZyp8e_Owkdw4Qcu_FV7RsxeqKEU9mgJoKXmpcgWyBU5GRkEHBpQprGZvB-9-nYBXxw1QofMQVY10ftf1V.UlwE7UsOq7hIpYrD0G-ns8909AXIIAEPvm-3r1gqVM_p_iYhYSsVqHKeX3xx4pndHQ721B1MjlPvdp2JjRwNJg&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoicHJvZmlsZSIsInBvc2l0aW9uIjoicGFnZUNvbnRlbnQifX0)
 - [Más información](https://www.marcombo.com/mentes-geniales-la-vida-y-obra-de-12-grandes-informaticos-9788426733573/)
 - ¿Dónde comprarlo?
-  - [Buscalibre (Chile)](https://www.buscalibre.cl/libro-mentes-geniales-la-vida-y-obra-de-12-grandes-informaticos/9788426733573/p/53619955)
+  - [Buscalibre (Latinoamérica)](https://www.buscalibre.cl/libro-mentes-geniales-la-vida-y-obra-de-12-grandes-informaticos/9788426733573/p/53619955)
   - [Amazon.com](https://www.amazon.com/Mentes-geniales-vida-grandes-inform%C3%A1ticos/dp/8426733573/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1703706393&sr=1-1)
   - [Amazon.es](https://www.amazon.es/Mentes-geniales-vida-grandes-informáticos/dp/8426733573)
-  - [BookDepository](https://www.bookdepository.com/Mentes-geniales-La-vida-y-obra-de-12-grandes-inform%C3%A1ticos-Camilo-Chac%C3%B3n-Sartori/9788426733573?ref=grid-view&qid=1657898197787&sr=1-2)
-  - [Mercadolibre (Argentina)](https://articulo.mercadolibre.com.ar/MLA-1104758713-libro-mentes-geniales-la-vida-de-12-grandes-informaticos-_JM#position=7&search_layout=stack&type=item&tracking_id=b0d83bf8-8344-4b41-996b-2ea090be7487)
+  - [Mercadolibre (Argentina)](https://www.mercadolibre.com.ar/libro-int-mentes-geniales-la-vida-de-12-grandes-informaticos/p/MLA22167923?pdp_filters=category:MLA412445#searchVariation=MLA22167923&position=1&search_layout=stack&type=product&tracking_id=8592e6f1-f783-42ba-a546-617e39e8e93a)
   - [elSótano (México)](https://www.elsotano.com/libro/mentes-geniales-la-vida-y-obra-de-12-grandes-informaticos_10643946)
 - Reseñas:
   - [Reseña de Mentes Geniales | Camilo Chacón Sartori | Los mejores libros para devs](https://youtu.be/fEgQzbhEvWc)
@@ -79,12 +78,12 @@ rss = "Libros escritos por Camilo Chacón Sartori"
 - Editorial: Marcombo
 - Páginas: 314
 - ISBN-13: 9788426732439
+- [Índice](https://www.researchgate.net/publication/348634295_Computacion_y_programacion_funcional)
 - [Enlace a repositorio](https://github.com/Marcombo/computacion-calculo-lambda-programacion-funcional)
 - [Más información](https://www.marcombo.com/computacion-y-programacion-funcional-9788426732439/)
 - ¿Dónde comprarlo?
-  - [Buscalibre (Chile)](https://www.buscalibre.cl/libro-computacion-y-programacion-funcional/9788426732439/p/53130911)
+  - [Buscalibre (Latinoamérica)](https://www.buscalibre.cl/libro-computacion-y-programacion-funcional/9788426732439/p/53130911)
   - [Amazon.es](https://www.amazon.es/Computación-programación-funcional-Camilo-Sartori/dp/8426732437)
-  - [BookDepository](https://www.bookdepository.com/Computaci%C3%B3n-y-programaci%C3%B3n-funcional-Camilo-Chac%C3%B3n-Sartori/9788426732439?ref=grid-view&qid=1657898221229&sr=1-1)
-  - [Mercadolibre (Argentina)](https://articulo.mercadolibre.com.ar/MLA-915403108-libro-computacion-y-programacion-funcional-_JM)
+  - [Mercadolibre (Argentina)](https://www.mercadolibre.com.ar/libro-computacin-y-programacin-funcional/p/MLA22042682?pdp_filters=category:MLA412445#searchVariation=MLA22042682&position=2&search_layout=stack&type=product&tracking_id=31c138da-2614-4065-b241-7633636af879)
 - Auto-reseña:
   - [Senderos de una ilusión: Computación y programación funcional](https://youtu.be/MGu5sG4U2Vw)
