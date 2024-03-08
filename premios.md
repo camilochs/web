@@ -10,16 +10,16 @@ rss = "Premios de Camilo Chacón Sartori"
 
 @def tags = ["syntax", "code"]
 
-# Premios
+# Awards
 
-## Investigación
+## Research
 
-* Junto a Christian Blum ganamos el *[Best Paper Award](https://www.iiia.csic.es/en-us/news-events/page/?news_id=305)* (*Workshop on Computational Optimization*) en el congreso [FedCSIS](https://fedcsis.org), por nuestro artículo: *[Boosting a Genetic Algorithm with Graph Neural Networks for Multi-Hop Influence Maximization in Social Networks](https://www.researchgate.net/publication/364080120_Boosting_a_Genetic_Algorithm_with_Graph_Neural_Networks_for_Multi-Hop_Influence_Maximization_in_Social_Networks)* presentado en Sofia, Bulgaria (2022).
+* Together with Christian Blum, we won the *[Best Paper Award](https://www.iiia.csic.es/en-us/news-events/page/?news_id=305)* (Workshop on Computational Optimization) at the [FedCSIS](https://fedcsis.org) conference for our paper: *[Boosting a Genetic Algorithm with Graph Neural Networks for Multi-Hop Influence Maximization in Social Networks](https://www.researchgate.net/publication/364080120_Boosting_a_Genetic_Algorithm_with_Graph_Neural_Networks_for_Multi-Hop_Influence_Maximization_in_Social_Networks)* presented in Sofia, Bulgaria (2022).
 
-## Industria
+## Industry
 
-* [Mining Tag S.A.](https://www.miningtag.com/en) (Chile) me elegio el mejor trabajador del año 2014, por mis aportes al desarrollo de los primeros software de la empresa.
+* [Mining Tag S.A.](https://www.miningtag.com/en) (Chile) chose me as the best worker of the year 2014, for my contributions to the development of the company's first software.
 
-## Redes sociales
+## Social Networks
 
-* Fui elegido **Escritor destacado** de **[QuoraES](https://es.quora.com/profile/Camilo-Chac%C3%B3n-Sartori)** durante *cinco años consecutivos* (2018-2022), por mis más de 800 respuestas sobre ciencias de la computación.
+* I was selected as **Best Writer** on **[QuoraES](https://es.quora.com/profile/Camilo-Chac%C3%B3n-Sartori)** for *five consecutive years* (2018-2022), for my over 800 answers.
