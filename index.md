@@ -17,8 +17,7 @@ I am a Chilean doctoral student in computer science, specializing in AI, at [III
 
 My areas of interest are:
 
-* Hybrid metaheuristics
-* Combinatorial optimization
+* Hybrid Metaheuristics
+* Combinatorial Optimization
 * Artificial Intelligence
-* Theory of programming languages and compilers
-* Philosophy of computer science
+* Philosophy of Computer Science
