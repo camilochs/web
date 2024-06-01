@@ -2,6 +2,7 @@
 @def tags = ["chile", "informática", "computación", "libros", "érase una vez un algoritmo", "Camilo Chacón Sartori", "optimización", "algoritmos"]
 
 # News
+- [May ~ 2024] New paper (arXiv): [*Metaheuristics and Large Language Models Join Forces: Towards an Integrated Optimization Approach*](https://arxiv.org/abs/2405.18272).
 - [April ~ 2024] I have had three papers accepted:
     - *STNWeb for the Analysis of Optimization Algorithms: A Short Introduction* in MIC 2024 (june), Conference in France.
     - *An Extension of STNWeb Functionality: On the Use of Hierarchical Agglomerative Clustering as an Advanced Search Space Partitioning Strategy* in GECCO 2024 (july), Conference in Australia.
