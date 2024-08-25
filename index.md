@@ -2,7 +2,7 @@
 @def tags = ["chile", "informática", "computación", "libros", "érase una vez un algoritmo", "Camilo Chacón Sartori", "optimización", "algoritmos"]
 
 # News
-- **[August 2024]** Currently finalizing my first book of essays on AI.
+- **[August 2024]** Currently finalizing my first popular science book (in Spanish) on AI.
 - **[May 2024]** Published a new pre-print on ResearchGate: [*Metaheuristics and Large Language Models Join Forces: Towards an Integrated Optimization Approach*](https://www.researchgate.net/publication/380934784_Metaheuristics_and_Large_Language_Models_Join_Forces_Towards_an_Integrated_Optimization_Approach).
 - **[April 2024]** Three papers have been accepted:
     - [*STNWeb for the Analysis of Optimization Algorithms: A Short Introduction*](https://link.springer.com/chapter/10.1007/978-3-031-62922-8_29) at MIC 2024 (June) in France.
