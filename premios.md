@@ -14,9 +14,9 @@ rss = "Premios de Camilo Chacón Sartori"
 
 ## Academic
 
-* PhD Fellow (FPI), Computer Science (Specialized in Artificial Intelligence), Spanish Ministry of Science and Innovation, 2021-2025.
-* Highest-GPA of the generation, M.S. Computer Science, Pontificia Universidad Católica de Valparaíso, Chile, 2017-2018.
-* Graduated with highest distinction. Bachelor of Computer Science, Universidad de los Lagos, Chile, 2011-2015.
+* **PhD Fellow** (FPI), Computer Science (Specialized in Artificial Intelligence), Spanish Ministry of Science and Innovation, 2021-2025.
+* **Highest-GPA of the generation**, M.S. Computer Science, Pontificia Universidad Católica de Valparaíso, Chile, 2017-2018.
+* **Graduated with highest distinction**. Bachelor of Computer Science, Universidad de los Lagos, Chile, 2011-2015.
 
 ## Research
 
@@ -24,7 +24,7 @@ rss = "Premios de Camilo Chacón Sartori"
 
 ## Industry
 
-* [Mining Tag S.A.](https://www.miningtag.com/en) (Chile) chose me as the best worker of the year 2014, for my contributions to the development of the company's first software.
+* [Mining Tag S.A.](https://www.miningtag.com/en) (Chile) chose me as the **best worker of the year 2014**, for my contributions to the development of the company's first software.
 
 ## Social Networks
 
