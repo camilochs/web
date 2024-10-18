@@ -2,8 +2,9 @@
 @def tags = ["chile", "informática", "computación", "libros", "érase una vez un algoritmo", "Camilo Chacón Sartori", "optimización", "algoritmos"]
 
 # News
-- **[October 2024]** I'm visiting [Nokia Bell Labs](https://www.bell-labs.com) for two months in Paris.
-- **[August 2024]** Currently finalizing my first popular science book (in Spanish) on AI.
+- **[October 2024]** 
+    - I'm visiting [Nokia Bell Labs](https://www.bell-labs.com) for two months in Paris.
+    - I have finished my book *Palabras y Algoritmos. ¿Cómo la Inteligencia Artificial transformará la escritura?* (Publisher [Marcombo](https://www.marcombo.com)). To be published in January 2025.
 - **[May 2024]** Published a new pre-print on ResearchGate: [*Metaheuristics and Large Language Models Join Forces: Towards an Integrated Optimization Approach*](https://www.researchgate.net/publication/380934784_Metaheuristics_and_Large_Language_Models_Join_Forces_Towards_an_Integrated_Optimization_Approach).
 - **[April 2024]** Three papers have been accepted:
     - [*An Extension of STNWeb Functionality: On the Use of Hierarchical Agglomerative Clustering as an Advanced Search Space Partitioning Strategy*](https://dl.acm.org/doi/10.1145/3638529.3654084) at GECCO 2024 (July) in Australia.
