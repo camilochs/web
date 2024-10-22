@@ -7,19 +7,7 @@
     - I'm visiting [Nokia Bell Labs](https://www.bell-labs.com) for two months in Paris.
 - **[September 2024]**
     - I signed a contract with Springer Publishing to co-author a book on [STNWeb](https://www.sciencedirect.com/science/article/pii/S2665963823000957), in collaboration with [Christian Blum](https://www.iiia.csic.es/~christian.blum/) and [Gabriela Ochoa](https://www.stir.ac.uk/people/257336#panel_1_1), to be completed by 2025.
-- **[May 2024]** 
-    - Published a new pre-print on ResearchGate: [*Metaheuristics and Large Language Models Join Forces: Towards an Integrated Optimization Approach*](https://www.researchgate.net/publication/380934784_Metaheuristics_and_Large_Language_Models_Join_Forces_Towards_an_Integrated_Optimization_Approach).
-- **[April 2024]** Three papers have been accepted:
-    - [*An Extension of STNWeb Functionality: On the Use of Hierarchical Agglomerative Clustering as an Advanced Search Space Partitioning Strategy*](https://dl.acm.org/doi/10.1145/3638529.3654084) at GECCO 2024 (July) in Australia.
-    - [*Large Language Models for the Automated Analysis of Optimization Algorithms*](https://dl.acm.org/doi/10.1145/3638529.3654086) at GECCO 2024 (July) in Australia.
-    - [*STNWeb for the Analysis of Optimization Algorithms: A Short Introduction*](https://link.springer.com/chapter/10.1007/978-3-031-62922-8_29) at MIC 2024 (June) in France.
 # Presentation
 
-I am a Chilean doctoral candidate in computer science with a focus on Artificial Intelligence (AI), studying at [IIIA-CSIC](https://www.iiia.csic.es/en-us/people/person/?person_id=161) and [Universitat Autònoma de Barcelona](https://www.uab.cat) in Catalonia, Spain.
 
-My research interests include:
-
-* Hybrid Metaheuristics
-* Generative AI
-* Combinatorial Optimization
-* Philosophy of Computer Science
+Camilo Chacón Sartori is a researcher and writer based in Barcelona, currently completing his PhD at the IIIA-CSIC & UAB. His work spans multiple fields, including artificial intelligence, graph theory, and large language models, with a focus on combining cutting-edge technology with deep philosophical questions, particularly around AI and consciousness. Camilo has a strong passion for philosophy, science, and literature, which he often shares through his writings. He has authored several books, including *Computación y programación funcional* (2021), *Mentes geniales. La vida y obra de 12 grandes informáticos* (2021), and *Principios de programación* (2023).
