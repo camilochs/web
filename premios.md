@@ -24,8 +24,8 @@ rss = "Premios de Camilo Chacón Sartori"
 
 ## Industry
 
-* [Mining Tag S.A.](https://www.miningtag.com/en) (Chile) chose me as the **best worker of the year 2014**, for my contributions to the development of the company's first software.
+* [Mining Tag S.A.](https://www.miningtag.com/en) (Chile) chose me as the **best worker of the year 2014**, for my contributions to the design and implementation of the company's first software.
 
 ## Social Networks
 
-* I was selected as **Best Writer** on **[QuoraES](https://es.quora.com/profile/Camilo-Chac%C3%B3n-Sartori)** for *five consecutive years* (2018-2022), for my over 800 answers.
+* I was selected as **Best Writer** on **[QuoraES](https://es.quora.com/profile/Camilo-Chac%C3%B3n-Sartori)** for *five consecutive years* (2018-2022), for my over 800 answers on computer science.
