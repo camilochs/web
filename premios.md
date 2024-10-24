@@ -14,7 +14,7 @@ rss = "Premios de Camilo Chacón Sartori"
 
 ## Academic
 
-* **PhD Fellow** (FPI), Computer Science (Specialized in Artificial Intelligence), Spanish Ministry of Science and Innovation, 2021-2025.
+* **PhD Fellow** (FPI), Computer Science (Specialized in Artificial Intelligence), *Ministerio de Ciencia, Innovación y Universidades (España)*, 2021-2025.
 * **Highest-GPA of the generation**, M.S. Computer Science, Pontificia Universidad Católica de Valparaíso, Chile, 2017-2018.
 * **Graduated with highest distinction**. Bachelor of Computer Science, Universidad de los Lagos, Chile, 2011-2015.
 
