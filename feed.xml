@@ -23,82 +23,6 @@
 
 <item>
   <title>
-    <![CDATA[  El Genio Radaigual  ]]>
-  </title>
-  <link> https://camilochs.github.io/web/el-genio-radaigual/index.html </link>
-  <guid> https://camilochs.github.io/web/el-genio-radaigual/index.html </guid>
-  <description>
-    <![CDATA[  El Genio Radaigual  ]]>
-  </description>  
-    
-  <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>  
-  
-  
-  <atom:author>
-    <atom:name>Camilo Chacón Sartori</atom:name>
-  </atom:author>
-        
-</item>
-
-<item>
-  <title>
-    <![CDATA[  Libros  ]]>
-  </title>
-  <link> https://camilochs.github.io/web/libros/index.html </link>
-  <guid> https://camilochs.github.io/web/libros/index.html </guid>
-  <description>
-    <![CDATA[  Libros escritos por Camilo Chacón Sartori  ]]>
-  </description>  
-    
-  <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>  
-  
-  
-  <atom:author>
-    <atom:name>Camilo Chacón Sartori</atom:name>
-  </atom:author>
-        
-</item>
-
-<item>
-  <title>
-    <![CDATA[  Award  ]]>
-  </title>
-  <link> https://camilochs.github.io/web/premios/index.html </link>
-  <guid> https://camilochs.github.io/web/premios/index.html </guid>
-  <description>
-    <![CDATA[  Premios de Camilo Chacón Sartori  ]]>
-  </description>  
-    
-  <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>  
-  
-  
-  <atom:author>
-    <atom:name>Camilo Chacón Sartori</atom:name>
-  </atom:author>
-        
-</item>
-
-<item>
-  <title>
-    <![CDATA[  Un homenaje a Hali: la mejor programadora que conozco  ]]>
-  </title>
-  <link> https://camilochs.github.io/web/hali/index.html </link>
-  <guid> https://camilochs.github.io/web/hali/index.html </guid>
-  <description>
-    <![CDATA[  Un homenaje a Hali: la mejor programadora que conozco  ]]>
-  </description>  
-    
-  <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>  
-  
-  
-  <atom:author>
-    <atom:name>Camilo Chacón Sartori</atom:name>
-  </atom:author>
-        
-</item>
-
-<item>
-  <title>
     <![CDATA[  Artículos  ]]>
   </title>
   <link> https://camilochs.github.io/web/art/index.html </link>
@@ -107,26 +31,7 @@
     <![CDATA[  Artículos escritos por Camilo Chacón Sartori  ]]>
   </description>  
     
-  <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>  
-  
-  
-  <atom:author>
-    <atom:name>Camilo Chacón Sartori</atom:name>
-  </atom:author>
-        
-</item>
-
-<item>
-  <title>
-    <![CDATA[  El diario de José Chasar  ]]>
-  </title>
-  <link> https://camilochs.github.io/web/diario-jose-chasar/index.html </link>
-  <guid> https://camilochs.github.io/web/diario-jose-chasar/index.html </guid>
-  <description>
-    <![CDATA[  El diario de José Chasar  ]]>
-  </description>  
-    
-  <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>  
+  <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
@@ -145,7 +50,121 @@
     <![CDATA[  Reseña del libro: «Historia de los lenguajes de programación. Años 1940-1959». Autor: Manuel Rubio.  ]]>
   </description>  
     
-  <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>  
+  <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Camilo Chacón Sartori</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Publications  ]]>
+  </title>
+  <link> https://camilochs.github.io/web/publications/index.html </link>
+  <guid> https://camilochs.github.io/web/publications/index.html </guid>
+  <description>
+    <![CDATA[  Publications by Camilo Chacón Sartori  ]]>
+  </description>  
+    
+  <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Camilo Chacón Sartori</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Libros  ]]>
+  </title>
+  <link> https://camilochs.github.io/web/libros/index.html </link>
+  <guid> https://camilochs.github.io/web/libros/index.html </guid>
+  <description>
+    <![CDATA[  Libros escritos por Camilo Chacón Sartori  ]]>
+  </description>  
+    
+  <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Camilo Chacón Sartori</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Award  ]]>
+  </title>
+  <link> https://camilochs.github.io/web/premios/index.html </link>
+  <guid> https://camilochs.github.io/web/premios/index.html </guid>
+  <description>
+    <![CDATA[  Premios de Camilo Chacón Sartori  ]]>
+  </description>  
+    
+  <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Camilo Chacón Sartori</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Un homenaje a Hali: la mejor programadora que conozco  ]]>
+  </title>
+  <link> https://camilochs.github.io/web/hali/index.html </link>
+  <guid> https://camilochs.github.io/web/hali/index.html </guid>
+  <description>
+    <![CDATA[  Un homenaje a Hali: la mejor programadora que conozco  ]]>
+  </description>  
+    
+  <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Camilo Chacón Sartori</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  El diario de José Chasar  ]]>
+  </title>
+  <link> https://camilochs.github.io/web/diario-jose-chasar/index.html </link>
+  <guid> https://camilochs.github.io/web/diario-jose-chasar/index.html </guid>
+  <description>
+    <![CDATA[  El diario de José Chasar  ]]>
+  </description>  
+    
+  <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Camilo Chacón Sartori</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  El Genio Radaigual  ]]>
+  </title>
+  <link> https://camilochs.github.io/web/el-genio-radaigual/index.html </link>
+  <guid> https://camilochs.github.io/web/el-genio-radaigual/index.html </guid>
+  <description>
+    <![CDATA[  El Genio Radaigual  ]]>
+  </description>  
+    
+  <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
