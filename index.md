@@ -7,6 +7,8 @@ I'm Camilo Chacón Sartori, a Chilean engineer, researcher and writer based in B
 
 # News
 
+- **[January 2025]**
+  - **New paper:** [Metaheuristics and Large Language Models Join Forces: Toward an Integrated Optimization Approach](https://ieeexplore.ieee.org/document/10818476).
 - **[November 2024]**
   - **New preprint**: [VisGraphVar: A Benchmark Generator for Assessing Variability in Graph Analysis Using Large Vision-Language Models](https://camilochs.github.io/visgraphvar-website/).
 - **[October 2024]**
