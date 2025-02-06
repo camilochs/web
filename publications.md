@@ -20,15 +20,15 @@
 
 ## Conference
 
-* [An Extension of STNWeb Functionality: On the Use of Hierarchical Agglomerative Clustering as an Advanced Search Space Partitioning Strategy](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oEYuOoIAAAAJ&sortby=pubdate&citation_for_view=oEYuOoIAAAAJ:roLk4NBRz8UC) (2024). Genetic and Evolutionary Computation Conference (GECCO) 24.
+* [An Extension of STNWeb Functionality: On the Use of Hierarchical Agglomerative Clustering as an Advanced Search Space Partitioning Strategy](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oEYuOoIAAAAJ&sortby=pubdate&citation_for_view=oEYuOoIAAAAJ:roLk4NBRz8UC) (2024). Genetic and Evolutionary Computation Conference (GECCO) 24. **[Core A]**
   * Authors: **Camilo Chacón Sartori**, Christian Blum, Gabriela Ochoa.
-* [Large Language Models for the Automated Analysis of Optimization Algorithms](https://dl.acm.org/doi/10.1145/3638529.3654086) (2024). Genetic and Evolutionary Computation Conference (GECCO) 24.
-  * Authors: **Camilo Chacón Sartori**, Christian Blum, Gabriela Ochoa.
+* [Large Language Models for the Automated Analysis of Optimization Algorithms](https://dl.acm.org/doi/10.1145/3638529.3654086) (2024). Genetic and Evolutionary Computation Conference (GECCO) 24. **[Core A]**
+  * Authors: **Camilo Chacón Sartori**, Christian Blum, Gabriela Ochoa. 
 * [STNWeb for the Analysis of Optimization Algorithms: A Short Introduction](https://dl.acm.org/doi/10.1007/978-3-031-62922-8_29) (2024). Metaheuristics International Conference (MIC).
   * Authors: **Camilo Chacón Sartori**, Christian Blum.
-* [Q-Learning Ant Colony Optimization supported by Deep Learning for Target Set Selection](https://dl.acm.org/doi/10.1145/3583131.3590396) (2023). Genetic and Evolutionary Computation Conference (GECCO) 23.
+* [Q-Learning Ant Colony Optimization supported by Deep Learning for Target Set Selection](https://dl.acm.org/doi/10.1145/3583131.3590396) (2023). Genetic and Evolutionary Computation Conference (GECCO) 23. **[Core A]**
   * Authors: Jairo Enrique Ramírez Sánchez, **Camilo Chacón Sartori**, Christian Blum.
 * [Search Trajectory Networks Meet the Web: A Web Application for the Visual Comparison of Optimization Algorithms](https://dl.acm.org/doi/abs/10.1145/3587828.3587843) (2023). International Conference on Software and Computer Applications (ICSCA).
   * Authors: **Camilo Chacón Sartori**, Christian Blum, Gabriela Ochoa.
-* [Boosting a Genetic Algorithm with Graph Neural Networks for Multi-Hop Influence Maximization in Social Networks](https://ieeexplore.ieee.org/document/9909110/) (2022). Conference on Computer Science and Intelligence System (FedCSIS). **Best paper award**.
+* [Boosting a Genetic Algorithm with Graph Neural Networks for Multi-Hop Influence Maximization in Social Networks](https://ieeexplore.ieee.org/document/9909110/) (2022). Conference on Computer Science and Intelligence System (FedCSIS). **[Core B]**. **Best paper award**.
   * Authors: **Camilo Chacón Sartori**, Christian Blum.
