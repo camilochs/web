@@ -8,7 +8,7 @@
 
 ## Journal
 
-* [3] [VisGraphVar: A Benchmark Generator for Assessing Variability in Graph Analysis Using Large Vision-Language Models](https://ieeexplore.ieee.org/document/10855899) (2025). IEEE Access. **In press**.
+* [3] [VisGraphVar: A Benchmark Generator for Assessing Variability in Graph Analysis Using Large Vision-Language Models](https://ieeexplore.ieee.org/document/10855899) (2025). IEEE Access.
   * Authors: **Camilo Chacón Sartori**, Christian Blum, Filippo Bistaffa.
   * [Homepage / Dataset / Code](https://camilochs.github.io/visgraphvar-website/) 
 * [2] [Metaheuristics and Large Language Models Join Forces: Toward an Integrated Optimization Approach](https://ieeexplore.ieee.org/document/10818476) (2025). IEEE Access.
