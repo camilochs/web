@@ -17,7 +17,7 @@ rss = "Libros escritos por Camilo Chacón Sartori"
     <p>
     Un ensayo que comienza desde la lejana Mesopotamia hasta nuestros días con la inteligencia artificial generativa, para narrar una de las tecnologías humanas más increíble: la escritura. 
     </p>
-    <p>Objetivo: mostrar cómo la escritura es parte inseparable de los que nos hace humanos.</p>
+    <p>Objetivo: mostrar cómo la escritura es parte inseparable de los que nos hace humanos, y dar pistas de cómo la IA se volverá participe.</p>
     <div style="clear: both"></div>  
   </div>
 </div>
