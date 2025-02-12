@@ -28,8 +28,8 @@ rss = "Libros escritos por Camilo Chacón Sartori"
 - ISBN: 9788426739551
 - [Muestra (índice e introducción)](https://www.researchgate.net/publication/386334083_Palabras_y_Algoritmos)
 - ¿Dónde comprarlo?
-  - [Buscalibre (Latinoamérica)](https://www.buscalibre.cl/libro-palabras-y-algoritmos-como-la-inteligencia-artificial-transformara-la-escritura/9789587789997/p/63660818)
   - [Amazon.com](https://www.amazon.com/-/es/Palabras-algoritmos-inteligencia-artificial-transformar%C3%A1/dp/8426739555/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-1)
+  - [Buscalibre (Latinoamérica)](https://www.buscalibre.cl/libro-palabras-y-algoritmos-como-la-inteligencia-artificial-transformara-la-escritura/9789587789997/p/63660818)
   - [Gandhi (México)](https://www.gandhi.com.mx/palabras-y-algoritmos-9788426739551/p)
   - [Alianza (Colombia)](https://www.alpha-editorial.com/Papel/9789587789997/Palabras+Y+Algoritmos)
   - España 
