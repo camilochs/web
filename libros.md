@@ -7,6 +7,37 @@ rss = "Libros escritos por Camilo Chacón Sartori"
 
 # Libros
 
+
+## Palabras y algoritmos
+### Cómo la inteligencia artificial transformará la escritura
+~~~
+<div class="row">
+  <div class="container">
+    <img class="left" style="width: 50%"  src="/assets/libro4.png">
+    <p>
+    Un ensayo que comienza desde la lejana Mesopotamia hasta nuestros días con la inteligencia artificial generativa, para narrar una de las tecnologías humanas más increíble: la escritura. 
+    </p>
+    <p>Objetivo: mostrar cómo la escritura es parte inseparable de los que nos hace humanos.</p>
+    <div style="clear: both"></div>  
+  </div>
+</div>
+~~~
+- Fecha de publicación: Enero 2025
+- Editorial: Marcombo
+- Páginas: 240
+- ISBN: 9788426739551
+- [Muestra (índice e introducción)](https://www.researchgate.net/publication/386334083_Palabras_y_Algoritmos)
+- ¿Dónde comprarlo?
+  - [Buscalibre (Latinoamérica)](https://www.buscalibre.cl/libro-palabras-y-algoritmos-como-la-inteligencia-artificial-transformara-la-escritura/9789587789997/p/63660818)
+  - [Amazon.com](https://www.amazon.com/-/es/Palabras-algoritmos-inteligencia-artificial-transformar%C3%A1/dp/8426739555/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-1)
+  - [Gandhi (México)](https://www.gandhi.com.mx/palabras-y-algoritmos-9788426739551/p)
+  - [Alianza (Colombia)](https://www.alpha-editorial.com/Papel/9789587789997/Palabras+Y+Algoritmos)
+  - España 
+    - [Editorial](https://www.marcombo.com/libro/libros-tecnicos-de-arte-y-cientificos/informatica-libros-tecnicos-y-cientificos/palabras-y-algoritmos/)
+    - [Amazon.es](https://www.amazon.es/Palabras-algoritmos-inteligencia-artificial-transformar%C3%A1/dp/8426739555/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-1)
+    - [fnac](https://www.fnac.es/a11574874/CAMILO-CHACON-SARTORI-Palabras-Y-Algoritmos)
+    - [Casa del libro](https://www.casadellibro.com/libro-palabras-y-algoritmos/9788426739551/16573682)
+
 ## Principios de programación
 ~~~
 <div class="row">
