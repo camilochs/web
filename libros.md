@@ -5,7 +5,7 @@ rss = "Libros escritos por Camilo Chacón Sartori"
 +++
 @def tags = ["syntax", "code"]
 
-# Libros
+# Books (in Spanish)
 
 
 ## Palabras y algoritmos
