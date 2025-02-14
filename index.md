@@ -7,12 +7,8 @@ I'm Camilo Chacón Sartori, a Chilean engineer, researcher and writer based in B
 
 # News
 
+- **[February 2025]**
+  - **New preprint:** [Improving Existing Optimization Algorithms with LLMs](https://arxiv.org/abs/2502.08298).
 - **[January 2025]**
+  - **New book (in spanish):** [Palabras y Algoritmos. ¿Cómo la Inteligencia Artificial transformará la escritura?](https://www.marcombo.com/libro/libros-tecnicos-de-arte-y-cientificos/informatica-libros-tecnicos-y-cientificos/palabras-y-algoritmos/)
   - **New paper:** [Metaheuristics and Large Language Models Join Forces: Toward an Integrated Optimization Approach](https://ieeexplore.ieee.org/document/10818476).
-- **[November 2024]**
-  - **New preprint**: [VisGraphVar: A Benchmark Generator for Assessing Variability in Graph Analysis Using Large Vision-Language Models](https://camilochs.github.io/visgraphvar-website/).
-- **[October 2024]**
-  - I have finished my book *Palabras y Algoritmos. ¿Cómo la Inteligencia Artificial transformará la escritura?* (Publisher [Marcombo](https://www.marcombo.com)). To be published in January 2025.
-  - I'm visiting [Nokia Bell Labs](https://www.bell-labs.com) for two months in Paris.
-- **[September 2024]**
-  - I signed a contract with Springer Publishing to co-author a book on [STNWeb](https://www.sciencedirect.com/science/article/pii/S2665963823000957), in collaboration with [Christian Blum](https://www.iiia.csic.es/~christian.blum/) and [Gabriela Ochoa](https://www.stir.ac.uk/people/257336#panel_1_1), to be completed by 2025.
