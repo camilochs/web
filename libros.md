@@ -7,7 +7,6 @@ rss = "Libros escritos por Camilo Chacón Sartori"
 
 # Books (in Spanish)
 
-
 ## Palabras y algoritmos
 ### Cómo la inteligencia artificial transformará la escritura
 ~~~
@@ -116,5 +115,5 @@ rss = "Libros escritos por Camilo Chacón Sartori"
   - [Buscalibre (Latinoamérica)](https://www.buscalibre.cl/libro-computacion-y-programacion-funcional/9788426732439/p/53130911)
   - [Amazon.es](https://www.amazon.es/Computación-programación-funcional-Camilo-Sartori/dp/8426732437)
   - [Mercadolibre (Argentina)](https://www.mercadolibre.com.ar/libro-computacin-y-programacin-funcional/p/MLA22042682?pdp_filters=category:MLA412445#searchVariation=MLA22042682&position=2&search_layout=stack&type=product&tracking_id=31c138da-2614-4065-b241-7633636af879)
-- Auto-reseña:
+- Autorreseña:
   - [Senderos de una ilusión: Computación y programación funcional](https://youtu.be/MGu5sG4U2Vw)
