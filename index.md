@@ -1,7 +1,7 @@
 @def title = "Camilo Chacón Sartori"
 @def tags = ["chile", "informática", "computación", "libros", "érase una vez un algoritmo", "Camilo Chacón Sartori", "optimización", "algoritmos"]
 
-I'm Camilo Chacón Sartori, a Chilean engineer, researcher, and writer based in Barcelona, completing my PhD at IIIA-CSIC & UAB. My work bridges AI, optimization algorithms, and foundational models, blending cutting-edge technology with deep philosophical questions in AI and computer science. Passionate about philosophy, science, and literature, I share my insights through my writings. I've authored several books, including *Principios de programación* (2023), *Mentes geniales* (2021), *Computación y programación funcional* (2021), and *Palabras y Algoritmos* (2025).
+I'm Camilo Chacón Sartori, a Chilean engineer, researcher, and writer based in Barcelona, completing my PhD at IIIA-CSIC & UAB. My work bridges AI, optimization algorithms, and foundational models, blending cutting-edge technology with deep philosophical questions in AI and computer science. Passionate about philosophy, science, and literature, I share my insights through my writings. I've authored several books, including *Palabras y Algoritmos* (2025), *Principios de programación* (2023), *Mentes geniales* (2021), and *Computación y programación funcional* (2021).
 
 Oh, I forgot, my favorite thing in life is learning and solving problems. If you have one that you think I can help you with, write me!
 
