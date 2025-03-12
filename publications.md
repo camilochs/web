@@ -1,10 +1,10 @@
-@def title = "Publications"
+@def title = "Articles"
 @def hascode = true
-@def rss = "Publications by Camilo Chacón Sartori"
+@def rss = "Articles by Camilo Chacón Sartori"
 
 @def tags = ["syntax", "code", "image"]
 
-# Publications
+# Scientific Articles
 
 ## Preprint
 
