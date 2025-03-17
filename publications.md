@@ -8,7 +8,9 @@
 
 ## Preprint
 
-* [Improving Existing Optimization Algorithms with LLMs](https://arxiv.org/abs/2502.08298) (2025). ArXiv.
+* [Combinatorial Optimization for All: Using LLMs to Aid Non-Experts in Improving Optimization Algorithms](https://camilochs.github.io/comb-opt-for-all/) (2025). arXiv.
+  * Authors: **Camilo Chacón Sartori**, Christian Blum.
+* [Improving Existing Optimization Algorithms with LLMs](https://alphaxiv.org/abs/2502.08298) (2025). arXiv.
   * Authors: **Camilo Chacón Sartori**, Christian Blum.
 
 ## Journal
