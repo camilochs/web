@@ -1,9 +1,5 @@
 @def title = "Articles"
-@def hascode = true
 @def rss = "Articles by Camilo Chacón Sartori"
-
-@def tags = ["syntax", "code", "image"]
-
 # Scientific Articles
 
 ## Preprint
