@@ -42,25 +42,6 @@
 
 <item>
   <title>
-    <![CDATA[  Articles  ]]>
-  </title>
-  <link> https://camilochs.github.io/web/publications/index.html </link>
-  <guid> https://camilochs.github.io/web/publications/index.html </guid>
-  <description>
-    <![CDATA[  Articles by Camilo Chacón Sartori  ]]>
-  </description>  
-    
-  <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>  
-  
-  
-  <atom:author>
-    <atom:name>Camilo Chacón Sartori</atom:name>
-  </atom:author>
-        
-</item>
-
-<item>
-  <title>
     <![CDATA[  Libros  ]]>
   </title>
   <link> https://camilochs.github.io/web/libros/index.html </link>
