@@ -4,14 +4,14 @@
 
 (*) First author
 
-## Preprint
+## Preprint (2)
 
 * [Combinatorial Optimization for All: Using LLMs to Aid Non-Experts in Improving Optimization Algorithms](https://camilochs.github.io/comb-opt-for-all/) (March 2025). arXiv.
   * Authors: **Camilo Chacón Sartori** (*), Christian Blum.
 * [Improving Existing Optimization Algorithms with LLMs](https://alphaxiv.org/abs/2502.08298) (February 2025). arXiv.
   * Authors: **Camilo Chacón Sartori** (*), Christian Blum.
 
-## Journal
+## Journal (3)
 
 * [3] [VisGraphVar: A Benchmark Generator for Assessing Variability in Graph Analysis Using Large Vision-Language Models](https://ieeexplore.ieee.org/document/10855899) (2025). IEEE Access.
   * Authors: **Camilo Chacón Sartori** (*), Christian Blum, Filippo Bistaffa.
@@ -23,7 +23,7 @@
   * Authors: **Camilo Chacón Sartori** (*), Christian Blum, Gabriela Ochoa.
   * [Code](https://github.com/camilochs/stnweb)
 
-## Conference
+## Conference (6)
 
 * [An Extension of STNWeb Functionality: On the Use of Hierarchical Agglomerative Clustering as an Advanced Search Space Partitioning Strategy](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oEYuOoIAAAAJ&sortby=pubdate&citation_for_view=oEYuOoIAAAAJ:roLk4NBRz8UC) (2024). Genetic and Evolutionary Computation Conference (GECCO) 24. **Core A**
   * Authors: **Camilo Chacón Sartori** (*), Christian Blum, Gabriela Ochoa.
