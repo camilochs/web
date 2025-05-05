@@ -18,4 +18,4 @@ Actualmente estoy finalizando un doctorando en Inteligencia Artificial en el III
 
 Gracias a esta trayectoria, hoy colaboro como consultor para [Vigalab S.A.](https://vigalab.com/), donde asesoro en la integración de algoritmos basados en IA en sus sistemas de control de producción. También trabajo con Alza Mining Tech ([Alza Group](https://www.alzagroup.cl/)), un fondo de inversiones enfocado en startups mineras, realizando la evalución técnica de software de empresas candidatas a recibir financiamiento.
 
-¿Quieres trabajar conmigo? Escríbeme a camilochs@gmail.com
+¿Quieres trabajar conmigo? Escríbeme a **camilochs@gmail.com**
