@@ -7,6 +7,9 @@ Oh, I forgot, my favorite thing in life is learning and solving problems. If you
 
 # News
 
+- **[May 2025]**
+  - **New preprint:** [Architectures of Error: A Philosophical Inquiry into AI and Human Code Generation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5265751)
+  
 - **[March 2025]**
   - **New preprint:** [Combinatorial Optimization for All: Using LLMs to Aid Non-Experts in Improving Optimization Algorithms](https://camilochs.github.io/comb-opt-for-all/)
 - **[February 2025]**
