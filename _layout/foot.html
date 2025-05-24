@@ -22,4 +22,16 @@
         {{ insert foot_highlight.html }}
     {{ end }}
   </body>
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      const links = document.querySelectorAll("a[href]");
+      links.forEach(link => {
+        if (!link.href.startsWith(window.location.origin)) {
+          link.setAttribute("target", "_blank");
+          link.setAttribute("rel", "noopener noreferrer");
+        }
+      });
+    });
+  </script>
+  
 </html>
