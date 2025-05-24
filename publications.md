@@ -4,7 +4,7 @@
 
 (*) First author
 
-## Preprint (2)
+## Preprint (3)
 
 * [Architectures of Error: A Philosophical Inquiry into AI and Human Code Generation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5265751)
   * Authors: **Camilo Chacón Sartori** 
