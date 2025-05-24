@@ -6,7 +6,7 @@
 
 ## Preprint (3)
 
-* [Architectures of Error: A Philosophical Inquiry into AI and Human Code Generation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5265751)
+* [Architectures of Error: A Philosophical Inquiry into AI and Human Code Generation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5265751) (May 2025). SSRN.
   * Authors: **Camilo Chacón Sartori** 
 * [Combinatorial Optimization for All: Using LLMs to Aid Non-Experts in Improving Optimization Algorithms](https://camilochs.github.io/comb-opt-for-all/) (March 2025). arXiv.
   * Authors: **Camilo Chacón Sartori** (*), Christian Blum.
