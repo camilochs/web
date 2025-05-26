@@ -37,5 +37,5 @@
   * Authors: Jairo Enrique Ramírez Sánchez, **Camilo Chacón Sartori**, Christian Blum.
 * [Search Trajectory Networks Meet the Web: A Web Application for the Visual Comparison of Optimization Algorithms](https://dl.acm.org/doi/abs/10.1145/3587828.3587843) (2023). International Conference on Software and Computer Applications (ICSCA).
   * Authors: **Camilo Chacón Sartori** (*), Christian Blum, Gabriela Ochoa.
-* [Boosting a Genetic Algorithm with Graph Neural Networks for Multi-Hop Influence Maximization in Social Networks](https://ieeexplore.ieee.org/document/9909110/) (2022). Conference on Computer Science and Intelligence System (FedCSIS). **Core B**. **Best paper award**.
+* [Boosting a Genetic Algorithm with Graph Neural Networks for Multi-Hop Influence Maximization in Social Networks](https://ieeexplore.ieee.org/document/9909110/) (2022). Conference on Computer Science and Intelligence System (FedCSIS). **Core B**. [**Best paper award**](https://www.iiia.csic.es/en-us/news-events/page/?news_id=305).
   * Authors: **Camilo Chacón Sartori** (*), Christian Blum.
