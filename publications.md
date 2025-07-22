@@ -27,7 +27,7 @@
 
 ## Conference (6)
 
-* [An Extension of STNWeb Functionality: On the Use of Hierarchical Agglomerative Clustering as an Advanced Search Space Partitioning Strategy](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oEYuOoIAAAAJ&sortby=pubdate&citation_for_view=oEYuOoIAAAAJ:roLk4NBRz8UC) (2024). Genetic and Evolutionary Computation Conference (GECCO) 24. **Core A**
+* [An Extension of STNWeb Functionality: On the Use of Hierarchical Agglomerative Clustering as an Advanced Search Space Partitioning Strategy](https://dl.acm.org/doi/abs/10.1145/3638529.3654084) (2024). Genetic and Evolutionary Computation Conference (GECCO) 24. **Core A**
   * Authors: **Camilo Chacón Sartori** (*), Christian Blum, Gabriela Ochoa.
 * [Large Language Models for the Automated Analysis of Optimization Algorithms](https://dl.acm.org/doi/10.1145/3638529.3654086) (2024). Genetic and Evolutionary Computation Conference (GECCO) 24. **Core A**
   * Authors: **Camilo Chacón Sartori** (*), Christian Blum, Gabriela Ochoa.
