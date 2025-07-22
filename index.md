@@ -1,7 +1,7 @@
 @def title = "Camilo Chacón Sartori"
 @def tags = ["chile", "informática", "computación", "libros", "érase una vez un algoritmo", "Camilo Chacón Sartori", "optimización", "algoritmos"]
 
-I am a Chilean engineer, researcher, and writer based in Barcelona, working at the intersection of AI, computational optimization, and the philosophy of computer science. I have authored books in Spanish on programming, the lives of pioneering computer scientists, and how AI is reshaping writing. Always learning, always thinking—if you're facing a challenge where ideas and algorithms meet, feel free to reach out.
+I am a Chilean engineer, researcher, and writer based in Barcelona, working at the intersection of AI, computational optimization, and the philosophy of computer science. I write books in Spanish—both technical and essayistic—as well as scientific and philosophical papers, all while testing my ideas through code.
 
 # News
 
