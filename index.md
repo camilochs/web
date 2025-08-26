@@ -5,6 +5,10 @@ I am a Chilean software engineer, researcher, and writer based in Barcelona, wor
 
 # News
 
+- **[August 2025]**
+
+  - **New tool:** [STN Analytics](https://stnweb.surge.sh/)
+
 - **[May 2025]**
 
   - **New preprint:** [Architectures of Error: A Philosophical Inquiry into AI and Human Code Generation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5265751)
