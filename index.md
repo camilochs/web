@@ -7,7 +7,7 @@ I am a Chilean software engineer, researcher, and writer based in Barcelona, wor
 
 - **[August 2025]**
 
-  - **New tool:** [STN Analytics](https://stnweb.surge.sh/)
+  - **New tool:** [STN Analytics](https://stnweb.surge.sh/). A tool for the visual analysis of Search Trajectory Networks.
 
 - **[May 2025]**
 
