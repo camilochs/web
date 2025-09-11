@@ -7,6 +7,7 @@ I am a Chilean software engineer, researcher, and writer based in Barcelona, wor
 
 - **[August 2025]**
 
+  - **New preprint:** [LLM-Based Instance-Driven Heuristic Bias In the Context of a Biased Random Key Genetic Algorithm](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5470108).
   - **New tool:** [STN Analytics](https://stnweb.surge.sh/). A tool for the visual analysis of Search Trajectory Networks.
 
 - **[May 2025]**
