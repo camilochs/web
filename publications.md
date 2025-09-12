@@ -5,7 +5,8 @@
 (*) First author
 
 ## Preprint (3)
-
+* [LLM-Based Instance-Driven Heuristic Bias In the Context of a Biased Random Key Genetic Algorithm](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5470108) (August 2025). SSRN.
+  * Author: **Camilo Chacón Sartori** (*), Martín Isla, Pedro Pinacho, and Christian Blum. 
 * [Architectures of Error: A Philosophical Inquiry into AI and Human Code Generation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5265751) (May 2025). SSRN.
   * Author: **Camilo Chacón Sartori** 
 * [Combinatorial Optimization for All: Using LLMs to Aid Non-Experts in Improving Optimization Algorithms](https://camilochs.github.io/comb-opt-for-all/) (March 2025). arXiv.
